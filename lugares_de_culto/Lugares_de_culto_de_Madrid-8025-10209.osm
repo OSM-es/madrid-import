@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.4636663" minlon="-3.6694335" maxlat="40.4803814" maxlon="-3.6474609"/>
+	<node id="-26702" lat="40.4710579" lon="-3.6690529">
+		<tag k="addr:housenumber" v="7"/>
+		<tag k="addr:postcode" v="28033"/>
+		<tag k="addr:street" v="FIXME Calle Serrano Galvache"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia castrense Nuestra Señora del Carmen"/>
+		<tag k="phone" v="+34 917674508"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=03238ed67151c010VgnVCM2000000c205a0aRCRD"/>
+	</node>
+	<node id="-26740" lat="40.4766373" lon="-3.6591513">
+		<tag k="addr:housenumber" v="18"/>
+		<tag k="addr:postcode" v="28033"/>
+		<tag k="addr:street" v="FIXME Calle Cuevas Del Almanzora"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Jesús de Nazaret"/>
+		<tag k="phone" v="+34 913024619"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=395eef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27042" lat="40.4711601" lon="-3.6511705">
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:postcode" v="28033"/>
+		<tag k="addr:street" v="FIXME Calle Balaguer"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="parroquia@pinardelrey.e.telefonica.net / pinardelrey@archimadrid.es"/>
+		<tag k="name" v="Parroquia San Isidoro y San Pedro Claver"/>
+		<tag k="phone" v="+34 913831443"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=85c2ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27106" lat="40.4763361" lon="-3.6503003">
+		<tag k="addr:housenumber" v="28"/>
+		<tag k="addr:postcode" v="28033"/>
+		<tag k="addr:street" v="FIXME Calle Abegondo"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Martín de Porres"/>
+		<tag k="phone" v="+34 913820494"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=5b44ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27242" lat="40.46448" lon="-3.6645998">
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:postcode" v="28033"/>
+		<tag k="addr:street" v="FIXME Calle Manuel Uribe"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa María del Bosque"/>
+		<tag k="phone" v="+34 913000646"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=7f82b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27254" lat="40.478908" lon="-3.6669364">
+		<tag k="addr:housenumber" v="7"/>
+		<tag k="addr:postcode" v="28033"/>
+		<tag k="addr:street" v="FIXME Calle Jazmin"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa María del Pinar"/>
+		<tag k="phone" v="+34 913024071"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=2c13b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27364" lat="40.4735613" lon="-3.6503089">
+		<tag k="addr:housenumber" v="42"/>
+		<tag k="addr:postcode" v="28033"/>
+		<tag k="addr:street" v="FIXME Avenida San Luis"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Virgen del Castillo"/>
+		<tag k="phone" v="+34 917644486"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=dda73d232e91f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27530" lat="40.4651733" lon="-3.6488243">
+		<tag k="addr:housenumber" v="34"/>
+		<tag k="addr:postcode" v="28043"/>
+		<tag k="addr:street" v="FIXME Calle Alejandro Villegas"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="name" v="Iglesia CENFOL España"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=beddb8d07d850410VgnVCM1000000b205a0aRCRD"/>
+	</node>
+</osm>

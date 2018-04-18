@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.3297957" minlon="-3.7133789" maxlat="40.3465441" maxlon="-3.6914062"/>
+	<node id="-27210" lat="40.3428749" lon="-3.7072516">
+		<tag k="addr:housenumber" v="72"/>
+		<tag k="addr:postcode" v="28021"/>
+		<tag k="addr:street" v="FIXME Avenida Real De Pinto"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa Inés"/>
+		<tag k="phone" v="+34 917967181"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=0981b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+</osm>

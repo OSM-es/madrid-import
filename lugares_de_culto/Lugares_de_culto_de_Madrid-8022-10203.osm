@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.3632883" minlon="-3.7353515" maxlat="40.3800283" maxlon="-3.7133789"/>
+	<node id="-26956" lat="40.3728878" lon="-3.7154692">
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:postcode" v="28041"/>
+		<tag k="addr:street" v="FIXME Calle Guetaria"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Bartolomé"/>
+		<tag k="phone" v="+34 913413510"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=066713db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27214" lat="40.3788748" lon="-3.7305289">
+		<tag k="addr:housenumber" v="111"/>
+		<tag k="addr:postcode" v="28025"/>
+		<tag k="addr:street" v="FIXME Avenida Abrantes"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa Luisa de Marillac"/>
+		<tag k="phone" v="+34 914691960"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=05b1b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+</osm>

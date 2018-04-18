@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.3967642" minlon="-3.7792968" maxlat="40.413496" maxlon="-3.7573242"/>
+	<node id="-26656" lat="40.4041034" lon="-3.7580243">
+		<tag k="addr:housenumber" v="30"/>
+		<tag k="addr:postcode" v="28011"/>
+		<tag k="addr:street" v="FIXME Calle San Juan De Mata"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Iglesia Nuestra Señora de Lourdes y San Justino"/>
+		<tag k="phone" v="+34 917113660"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=db30ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26862" lat="40.3968554" lon="-3.7709991">
+		<tag k="addr:housenumber" v="5"/>
+		<tag k="addr:postcode" v="28024"/>
+		<tag k="addr:street" v="FIXME Plaza Patricio Martinez"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="parroquiatransito@gmail.com / parroquiatransito@archimadrid.es"/>
+		<tag k="name" v="Parroquia Nuestra Señora del Pilar. (Campamento)"/>
+		<tag k="phone" v="+34 915182862"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=cdb0ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27088" lat="40.3971822" lon="-3.7611047">
+		<tag k="addr:housenumber" v="59"/>
+		<tag k="addr:postcode" v="28024"/>
+		<tag k="addr:street" v="FIXME Calle Escalona"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Leandro"/>
+		<tag k="phone" v="+34 915183652"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=8ee3ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+</osm>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.4803814" minlon="-3.6914062" maxlat="40.4970923" maxlon="-3.6694335"/>
+	<node id="-26896" lat="40.4848351" lon="-3.687065">
+		<tag k="addr:housenumber" v="15"/>
+		<tag k="addr:postcode" v="28034"/>
+		<tag k="addr:street" v="FIXME Calle Marcos De Orueta"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Nuestra Señora de Begoña"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=453413db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27022" lat="40.4825564" lon="-3.6716447">
+		<tag k="addr:housenumber" v="4"/>
+		<tag k="addr:postcode" v="28033"/>
+		<tag k="addr:street" v="FIXME Calle Arte"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Gabriel de la Dolorosa"/>
+		<tag k="phone" v="+34 913020607"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=cfe90713fb71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27084" lat="40.4879978" lon="-3.6839232">
+		<tag k="addr:housenumber" v="7"/>
+		<tag k="addr:postcode" v="28034"/>
+		<tag k="addr:street" v="FIXME Avenida Soto Palacios"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Juan María Vianney"/>
+		<tag k="phone" v="+34 917291249"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=fbd3ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27116" lat="40.4940893" lon="-3.6882332">
+		<tag k="addr:housenumber" v="28"/>
+		<tag k="addr:postcode" v="28034"/>
+		<tag k="addr:street" v="FIXME Calle Islas Bermudas"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Miguel Arcángel de Fuencarral"/>
+		<tag k="phone" v="+34 917340692"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=28a4ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+</osm>

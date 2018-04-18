@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.3632883" minlon="-3.7133789" maxlat="40.3800283" maxlon="-3.6914062"/>
+	<node id="-26912" lat="40.3697477" lon="-3.71043">
+		<tag k="addr:postcode" v="28041"/>
+		<tag k="addr:street" v="FIXME Calle Gran Avenida"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Preciosa Sangre"/>
+		<tag k="phone" v="+34 913416451"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=1fa1ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27000" lat="40.3712018" lon="-3.6919993">
+		<tag k="addr:housenumber" v="12"/>
+		<tag k="addr:postcode" v="28041"/>
+		<tag k="addr:street" v="FIXME Avenida San Fermin"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Fermín"/>
+		<tag k="phone" v="+34 912192047"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=b8490713fb71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27162" lat="40.3703844" lon="-3.700566">
+		<tag k="addr:postcode" v="28041"/>
+		<tag k="addr:street" v="FIXME Avenida Orcasur"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Simón y San Judas"/>
+		<tag k="phone" v="+34 913188530"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=092fb069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27466" lat="40.3660794" lon="-3.7003447">
+		<tag k="addr:housenumber" v="4"/>
+		<tag k="addr:postcode" v="28041"/>
+		<tag k="addr:street" v="FIXME Calle Albu--FIXME--Amp;Ntilde;Uelas"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="name" v="Iglesia de Filadelfia Orcasur"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=6b760ac0dfc50410VgnVCM2000000c205a0aRCRD"/>
+	</node>
+	<node id="-27524" lat="40.3703844" lon="-3.700566">
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:postcode" v="28041"/>
+		<tag k="addr:street" v="FIXME Avenida Orcasur"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="name" v="Iglesia Emanuel (U.C.E) Orcasitas (Orcasur)"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=2b96691af6d50410VgnVCM2000000c205a0aRCRD"/>
+	</node>
+</osm>

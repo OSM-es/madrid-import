@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.3967642" minlon="-3.6694335" maxlat="40.413496" maxlon="-3.6474609"/>
+	<node id="-26722" lat="40.404495" lon="-3.6604033">
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:postcode" v="28038"/>
+		<tag k="addr:street" v="FIXME Calle San Florencio"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Dulce Nombre de María"/>
+		<tag k="phone" v="+34 914333865"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=f34313db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26764" lat="40.407639" lon="-3.649285">
+		<tag k="addr:housenumber" v="41"/>
+		<tag k="addr:postcode" v="28030"/>
+		<tag k="addr:street" v="FIXME Calle Marroquina"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Natividad de Nuestra Señora"/>
+		<tag k="phone" v="+34 914390215"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=d21fef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26788" lat="40.410282" lon="-3.6486976">
+		<tag k="addr:housenumber" v="15"/>
+		<tag k="addr:postcode" v="28030"/>
+		<tag k="addr:street" v="FIXME Calle Corregidor Jose De Pasamonte"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="pamontan@archimadrid.es"/>
+		<tag k="name" v="Parroquia Nuestra Señora de la Montaña"/>
+		<tag k="phone" v="+34 913282981"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=57afef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26794" lat="40.397479" lon="-3.6631746">
+		<tag k="addr:housenumber" v="19"/>
+		<tag k="addr:postcode" v="28038"/>
+		<tag k="addr:street" v="FIXME Calle Puerto De Canfranc"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="nspneri@gmail.com / nspneri@archimadrid.es"/>
+		<tag k="name" v="Parroquia Nuestra Señora de la Peña"/>
+		<tag k="phone" v="+34 913284530"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=7ccfef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26832" lat="40.4086004" lon="-3.6545388">
+		<tag k="addr:housenumber" v="19"/>
+		<tag k="addr:postcode" v="28030"/>
+		<tag k="addr:street" v="FIXME Calle Entre Arroyos"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="pqnsmoratalaz@archimadrid.es"/>
+		<tag k="name" v="Parroquia Nuestra Señora de Moratalaz"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=8370ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26888" lat="40.4127374" lon="-3.6668249">
+		<tag k="addr:housenumber" v="5"/>
+		<tag k="addr:postcode" v="28007"/>
+		<tag k="addr:street" v="FIXME Pasaje Can Menor"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="reinacielo@archimadrid.es"/>
+		<tag k="name" v="Parroquia Nuestra Señora Reina del Cielo"/>
+		<tag k="phone" v="+34 915736131"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=f981ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26898" lat="40.408056" lon="-3.6583992">
+		<tag k="addr:housenumber" v="12"/>
+		<tag k="addr:postcode" v="28030"/>
+		<tag k="addr:street" v="FIXME Calle Corregidor Rodrigo Rodriguez"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Nuestra Señora de Belén"/>
+		<tag k="phone" v="+34 914390881"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=d74413db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26914" lat="40.4114656" lon="-3.6576546">
+		<tag k="addr:housenumber" v="62"/>
+		<tag k="addr:postcode" v="28030"/>
+		<tag k="addr:street" v="FIXME Calle Corregidor Diego De Valderrabano"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Presentación de Nuestra Señora"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=a1c1ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26972" lat="40.3977738" lon="-3.6588882">
+		<tag k="addr:housenumber" v="44"/>
+		<tag k="addr:postcode" v="28038"/>
+		<tag k="addr:street" v="FIXME Calle Lopez Grass"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Buenaventura"/>
+		<tag k="phone" v="+34 914302531"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=8af713db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26998" lat="40.4005702" lon="-3.6645601">
+		<tag k="addr:housenumber" v="39"/>
+		<tag k="addr:postcode" v="28038"/>
+		<tag k="addr:street" v="FIXME Camino Valderribas"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Felipe Neri"/>
+		<tag k="phone" v="+34 913284530"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=01190713fb71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27150" lat="40.3972273" lon="-3.6693349">
+		<tag k="addr:housenumber" v="10"/>
+		<tag k="addr:postcode" v="28053"/>
+		<tag k="addr:street" v="FIXME Calle Melquiades Biencinto"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Ramón Nonato"/>
+		<tag k="phone" v="+34 914339301"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=7995ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27228" lat="40.3989148" lon="-3.6530899">
+		<tag k="addr:housenumber" v="32"/>
+		<tag k="addr:postcode" v="28038"/>
+		<tag k="addr:street" v="FIXME Calle Ramon Perez De Ayala"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa María de Fontarrón"/>
+		<tag k="phone" v="+34 914302351"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=e9f1b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27440" lat="40.4071053" lon="-3.6480778">
+		<tag k="addr:housenumber" v="143"/>
+		<tag k="addr:postcode" v="28030"/>
+		<tag k="addr:street" v="FIXME Avenida Moratalaz"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="denomination" v="jehovahs_witness"/>
+		<tag k="name" v="Testigos Cristianos de Jehová. Avda. Moratalaz"/>
+		<tag k="phone" v="+34 914377284"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=daca6dd8f677f010VgnVCM2000000c205a0aRCRD"/>
+	</node>
+	<node id="-27482" lat="40.3988634" lon="-3.6605604">
+		<tag k="addr:housenumber" v="96"/>
+		<tag k="addr:postcode" v="28038"/>
+		<tag k="addr:street" v="FIXME Camino Valderribas"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="name" v="Iglesia El Buen Pastor de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=7d373ddd32d50410VgnVCM2000000c205a0aRCRD"/>
+	</node>
+	<node id="-27484" lat="40.4019554" lon="-3.6633717">
+		<tag k="addr:housenumber" v="8"/>
+		<tag k="addr:postcode" v="28038"/>
+		<tag k="addr:street" v="FIXME Calle Santa Beatriz"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="description" v="Oficina : calle Santa Amalia,."/>
+		<tag k="name" v="Iglesia Tabernáculo de Alabanza"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=c944f181df160410VgnVCM2000000c205a0aRCRD"/>
+	</node>
+	<node id="-27522" lat="40.4099554" lon="-3.6539038">
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:postcode" v="28030"/>
+		<tag k="addr:street" v="FIXME Calle Jose Del Prado Y Palacio"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="denomination" v="evangelical"/>
+		<tag k="name" v="Iglesia Evangélica Encuetro con Dios"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=f0fe7b05a8350410VgnVCM2000000c205a0aRCRD"/>
+	</node>
+</osm>

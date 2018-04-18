@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.3967642" minlon="-3.6914062" maxlat="40.413496" maxlon="-3.6694335"/>
+	<node id="-26652" lat="40.413185" lon="-3.6750915">
+		<tag k="addr:housenumber" v="10"/>
+		<tag k="addr:postcode" v="28009"/>
+		<tag k="addr:street" v="FIXME Calle Pio Baroja"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Iglesia Nuestra Señora de la Bien Aparecida"/>
+		<tag k="phone" v="+34 915044363"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=edf28ed67151c010VgnVCM2000000c205a0aRCRD"/>
+	</node>
+	<node id="-26774" lat="40.4083163" lon="-3.669539">
+		<tag k="addr:housenumber" v="4"/>
+		<tag k="addr:postcode" v="28007"/>
+		<tag k="addr:street" v="FIXME Calle Lira"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="parroquiadelaestrella@archimadrid.es"/>
+		<tag k="name" v="Parroquia Nuestra Señora de la Estrella"/>
+		<tag k="phone" v="+34 915041284"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=37b413db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26792" lat="40.404845" lon="-3.6762102">
+		<tag k="addr:housenumber" v="37"/>
+		<tag k="addr:postcode" v="28007"/>
+		<tag k="addr:street" v="FIXME Calle Valderribas"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="paz@archimadrid.es"/>
+		<tag k="name" v="Parroquia Nuestra Señora de la Paz"/>
+		<tag k="phone" v="+34 915514817"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=e9bfef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26884" lat="40.4020232" lon="-3.6703605">
+		<tag k="addr:housenumber" v="72"/>
+		<tag k="addr:postcode" v="28007"/>
+		<tag k="addr:street" v="FIXME Calle Valderribas"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="parroquiavalle@telefonica.net / parroquiavalle@archimadrid.es"/>
+		<tag k="name" v="Parroquia Nuestra Señora del Valle"/>
+		<tag k="phone" v="+34 915517986"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=6771ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27188" lat="40.408677" lon="-3.6741272">
+		<tag k="addr:housenumber" v="57"/>
+		<tag k="addr:postcode" v="28007"/>
+		<tag k="addr:street" v="FIXME Calle Juan De Urbieta"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa Catalina de Siena"/>
+		<tag k="phone" v="+34 915512507"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=8770b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27252" lat="40.4121002" lon="-3.6741849">
+		<tag k="addr:housenumber" v="3"/>
+		<tag k="addr:postcode" v="28009"/>
+		<tag k="addr:street" v="FIXME Calle Reyes Magos"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa María del Pilar"/>
+		<tag k="phone" v="+34 915748120"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=2603b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27362" lat="40.4038873" lon="-3.6782158">
+		<tag k="addr:housenumber" v="5"/>
+		<tag k="addr:postcode" v="28007"/>
+		<tag k="addr:street" v="FIXME Calle Juan De Urbieta"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Virgen de Nuria"/>
+		<tag k="phone" v="+34 915520297"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=357aff632081c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27382" lat="40.4057225" lon="-3.6832665">
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:postcode" v="28014"/>
+		<tag k="addr:street" v="FIXME Calle Julian Gayarre"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Real Basílica Nuestra Señora de Atocha"/>
+		<tag k="phone" v="+34 914344020"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=b22413db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27400" lat="40.4035868" lon="-3.6909285">
+		<tag k="addr:housenumber" v="18"/>
+		<tag k="addr:postcode" v="28045"/>
+		<tag k="addr:street" v="FIXME Calle General Lacy"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="denomination" v="baptist"/>
+		<tag k="name" v="Iglesia Bautista General Lacy"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=ede51e79ee71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27416" lat="40.4050385" lon="-3.6800894">
+		<tag k="addr:housenumber" v="8"/>
+		<tag k="addr:postcode" v="28007"/>
+		<tag k="addr:street" v="FIXME Calle Granada"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="name" v="Comunidad Cristiana Maranatha"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=429604a5d0260410VgnVCM2000000c205a0aRCRD"/>
+	</node>
+</osm>

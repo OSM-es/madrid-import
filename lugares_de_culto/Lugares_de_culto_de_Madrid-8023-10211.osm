@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.4970923" minlon="-3.7133789" maxlat="40.5137991" maxlon="-3.6914062"/>
+	<node id="-26696" lat="40.4987977" lon="-3.6917981">
+		<tag k="addr:housenumber" v="6"/>
+		<tag k="addr:postcode" v="28034"/>
+		<tag k="addr:street" v="FIXME Calle Bella Altisidora"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Beata María Ana Mogas"/>
+		<tag k="phone" v="+34 917359596"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=e528f0bde551c010VgnVCM2000000c205a0aRCRD"/>
+	</node>
+	<node id="-26720" lat="40.50579" lon="-3.6990577">
+		<tag k="addr:housenumber" v="37"/>
+		<tag k="addr:postcode" v="28049"/>
+		<tag k="addr:street" v="FIXME Avenida Santuario De Valverde"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Divino Salvador"/>
+		<tag k="phone" v="+34 917343013"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=57e48aa6bd91f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27220" lat="40.5120792" lon="-3.6959124">
+		<tag k="addr:housenumber" v="25"/>
+		<tag k="addr:postcode" v="28049"/>
+		<tag k="addr:street" v="FIXME Calle Monasterio De Oseira"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="luisdelezama@santamarialablanca.es"/>
+		<tag k="name" v="Parroquia Santa María la Blanca de Montecarmelo"/>
+		<tag k="phone" v="+34 914109815"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=9d058aa6bd91f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+</osm>

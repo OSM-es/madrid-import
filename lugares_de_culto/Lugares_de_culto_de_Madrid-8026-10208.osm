@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.446947" minlon="-3.6474609" maxlat="40.4636663" maxlon="-3.6254882"/>
+	<node id="-26762" lat="40.4609192" lon="-3.6312683">
+		<tag k="addr:housenumber" v="50"/>
+		<tag k="addr:postcode" v="28043"/>
+		<tag k="addr:street" v="FIXME Avenida Machupichu"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia María Virgen Madre"/>
+		<tag k="phone" v="+34 913882341"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=3c558ed67151c010VgnVCM2000000c205a0aRCRD"/>
+	</node>
+	<node id="-27126" lat="40.4569854" lon="-3.6388858">
+		<tag k="addr:housenumber" v="40"/>
+		<tag k="addr:postcode" v="28043"/>
+		<tag k="addr:street" v="FIXME Avenida Madro--FIXME--Amp;Ntilde;Os"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Pablo de la Cruz"/>
+		<tag k="phone" v="+34 913002981"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=4dc4ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27348" lat="40.4622831" lon="-3.6420616">
+		<tag k="addr:housenumber" v="28"/>
+		<tag k="addr:postcode" v="28043"/>
+		<tag k="addr:street" v="FIXME Calle Calanda"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Virgen de La Nueva"/>
+		<tag k="phone" v="+34 913002127"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=18273d232e91f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+</osm>

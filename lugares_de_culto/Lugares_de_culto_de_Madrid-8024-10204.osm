@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.3800283" minlon="-3.6914062" maxlat="40.3967642" maxlon="-3.6694335"/>
+	<node id="-27010" lat="40.3809391" lon="-3.6739566">
+		<tag k="addr:housenumber" v="9"/>
+		<tag k="addr:postcode" v="28053"/>
+		<tag k="addr:street" v="FIXME Calle Ruidera"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Francisco de Paula"/>
+		<tag k="phone" v="+34 915071971"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=f2990713fb71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27322" lat="40.3871403" lon="-3.6902538">
+		<tag k="addr:housenumber" v="209"/>
+		<tag k="addr:postcode" v="28045"/>
+		<tag k="addr:street" v="FIXME Calle Embajadores"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santos Inocentes"/>
+		<tag k="phone" v="+34 915396644"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=99c63d232e91f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+</osm>

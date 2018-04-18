@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.3632883" minlon="-3.6254882" maxlat="40.3800283" maxlon="-3.6035156"/>
+	<node id="-26866" lat="40.3768017" lon="-3.6246043">
+		<tag k="addr:housenumber" v="8"/>
+		<tag k="addr:postcode" v="28031"/>
+		<tag k="addr:street" v="FIXME Calle Monte Santo"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="nspuig@archimadrid.es"/>
+		<tag k="name" v="Parroquia Nuestra Señora del Puig"/>
+		<tag k="phone" v="+34 913039525"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=e2e0ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26994" lat="40.3744849" lon="-3.6215202">
+		<tag k="addr:housenumber" v="10"/>
+		<tag k="addr:postcode" v="28031"/>
+		<tag k="addr:street" v="FIXME Calle Pe--FIXME--Amp;Ntilde;A De Vargas"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Eulogio"/>
+		<tag k="phone" v="+34 913322843"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=ebe80713fb71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27488" lat="40.3736633" lon="-3.6184971">
+		<tag k="addr:housenumber" v="4"/>
+		<tag k="addr:postcode" v="28031"/>
+		<tag k="addr:street" v="FIXME Calle Sierra De Sabi--FIXME--Amp;Ntilde;Ar"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="denomination" v="jehovahs_witness"/>
+		<tag k="name" v="Testigos Cristianos de Jehová. Calle Sierra del Sabiñar"/>
+		<tag k="phone" v="+34 913325001"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=cf8b6dd8f677f010VgnVCM2000000c205a0aRCRD"/>
+	</node>
+</osm>

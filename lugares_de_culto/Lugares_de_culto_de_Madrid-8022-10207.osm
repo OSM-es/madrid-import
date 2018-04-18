@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.4302236" minlon="-3.7353515" maxlat="40.446947" maxlon="-3.7133789"/>
+	<node id="-26634" lat="40.43185" lon="-3.7201611">
+		<tag k="addr:housenumber" v="91"/>
+		<tag k="addr:postcode" v="28008"/>
+		<tag k="addr:street" v="FIXME Calle Martin De Los Heros"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Iglesia Cristo Rey de Argüelles"/>
+		<tag k="phone" v="+34 915497544"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=94d213db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27070" lat="40.4418389" lon="-3.7161407">
+		<tag k="addr:housenumber" v="2"/>
+		<tag k="addr:postcode" v="28003"/>
+		<tag k="addr:street" v="FIXME Calle Domenico Scarlatti"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Juan Crisóstomo"/>
+		<tag k="phone" v="+34 915495328"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=772a0713fb71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27152" lat="40.4334284" lon="-3.715521">
+		<tag k="addr:housenumber" v="22"/>
+		<tag k="addr:postcode" v="28015"/>
+		<tag k="addr:street" v="FIXME Calle Gaztambide"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Ricardo"/>
+		<tag k="phone" v="+34 915432291"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=5a9eb069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27278" lat="40.4384563" lon="-3.7153738">
+		<tag k="addr:housenumber" v="75"/>
+		<tag k="addr:postcode" v="28015"/>
+		<tag k="addr:street" v="FIXME Calle Gaztambide"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa Rita"/>
+		<tag k="phone" v="+34 915490133"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=e964b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27398" lat="40.4396924" lon="-3.7165307">
+		<tag k="addr:housenumber" v="4"/>
+		<tag k="addr:postcode" v="28003"/>
+		<tag k="addr:street" v="FIXME Paseo San Francisco De Sales"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Tercer Monasterio de la Visitación (Las Salesas)"/>
+		<tag k="phone" v="+34 915333436"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=67c13d232e91f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+</osm>

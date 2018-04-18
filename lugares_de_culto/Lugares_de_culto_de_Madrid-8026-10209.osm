@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.4636663" minlon="-3.6474609" maxlat="40.4803814" maxlon="-3.6254882"/>
+	<node id="-26716" lat="40.4742628" lon="-3.6359469">
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:postcode" v="28033"/>
+		<tag k="addr:street" v="FIXME Calle Caracoli"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Cristo Salvador"/>
+		<tag k="phone" v="+34 917636614"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=27e213db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26946" lat="40.47985" lon="-3.6307141">
+		<tag k="addr:housenumber" v="26"/>
+		<tag k="addr:postcode" v="28055"/>
+		<tag k="addr:street" v="FIXME Avenida Maruja Mallo"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Antonio de las Cárcavas"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=e3958ed67151c010VgnVCM2000000c205a0aRCRD"/>
+	</node>
+	<node id="-27110" lat="40.4727841" lon="-3.6410763">
+		<tag k="addr:housenumber" v="2"/>
+		<tag k="addr:postcode" v="28033"/>
+		<tag k="addr:street" v="FIXME Plaza Iglesia"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Matías"/>
+		<tag k="phone" v="+34 917631662"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=7074ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27250" lat="40.4772559" lon="-3.6420862">
+		<tag k="addr:housenumber" v="13"/>
+		<tag k="addr:postcode" v="28033"/>
+		<tag k="addr:street" v="FIXME Calle Santa Virgilia"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa María del Parque"/>
+		<tag k="phone" v="+34 917631228"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=5ee2b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27276" lat="40.46656" lon="-3.639236">
+		<tag k="addr:housenumber" v="115."/>
+		<tag k="addr:postcode" v="28043"/>
+		<tag k="addr:street" v="FIXME Carretera Canillas"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa Paula"/>
+		<tag k="phone" v="+34 913811266"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=e354b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27282" lat="40.4658666" lon="-3.6309843">
+		<tag k="addr:housenumber" v="13"/>
+		<tag k="addr:postcode" v="28043"/>
+		<tag k="addr:street" v="FIXME Calle Las Pedro--FIXME--Amp;Ntilde;Eras"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa Rosalía"/>
+		<tag k="phone" v="+34 913001988"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=ad94b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27430" lat="40.4674077" lon="-3.6308926">
+		<tag k="addr:housenumber" v="46"/>
+		<tag k="addr:postcode" v="28043"/>
+		<tag k="addr:street" v="FIXME Calle Las Pedro--FIXME--Amp;Ntilde;Eras"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="denomination" v="jehovahs_witness"/>
+		<tag k="name" v="Testigos Cristianos de Jehová. Calle Las Pedroñeras"/>
+		<tag k="phone" v="+34 917597002"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=2ae45159bd619210VgnVCM2000000c205a0aRCRD"/>
+	</node>
+	<node id="-27460" lat="40.4724232" lon="-3.6329921">
+		<tag k="addr:housenumber" v="2"/>
+		<tag k="addr:postcode" v="28033"/>
+		<tag k="addr:street" v="FIXME Calle Guamo"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="denomination" v="jehovahs_witness"/>
+		<tag k="name" v="Testigos Cristianos de Jehová. Calle Guamo"/>
+		<tag k="phone" v="+34 917644305"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=dbe3784e0cc4f010VgnVCM2000000c205a0aRCRD"/>
+	</node>
+	<node id="-27490" lat="40.4780308" lon="-3.6436863">
+		<tag k="addr:housenumber" v="5"/>
+		<tag k="addr:postcode" v="28033"/>
+		<tag k="addr:street" v="FIXME Calle Santa Virgilia"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="denomination" v="evangelical"/>
+		<tag k="name" v="Iglesia Cristiana Evangélica en Hortaleza (Eben Ezer)"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=924b7b05a8350410VgnVCM2000000c205a0aRCRD"/>
+	</node>
+</osm>

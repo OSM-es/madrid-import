@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.446947" minlon="-3.7353515" maxlat="40.4636663" maxlon="-3.7133789"/>
+	<node id="-26668" lat="40.4624642" lon="-3.7270931">
+		<tag k="addr:housenumber" v="6"/>
+		<tag k="addr:postcode" v="28035"/>
+		<tag k="addr:street" v="FIXME Calle Madrigal"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Iglesia San Juan de Sahagún"/>
+		<tag k="phone" v="+34 913161631"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=df738ed67151c010VgnVCM2000000c205a0aRCRD"/>
+	</node>
+	<node id="-26970" lat="40.4471741" lon="-3.7143932">
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:postcode" v="28040"/>
+		<tag k="addr:street" v="FIXME Calle Beatriz De Bobadilla"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Bruno"/>
+		<tag k="phone" v="+34 915344266"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=f7e713db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26996" lat="40.463181" lon="-3.7161786">
+		<tag k="addr:housenumber" v="21"/>
+		<tag k="addr:postcode" v="28039"/>
+		<tag k="addr:street" v="FIXME Calle Alcalde Martin De Alzaga"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Federico"/>
+		<tag k="phone" v="+34 914593093"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=7ef80713fb71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+</osm>

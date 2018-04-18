@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.4636663" minlon="-3.6914062" maxlat="40.4803814" maxlon="-3.6694335"/>
+	<node id="-26780" lat="40.4766555" lon="-3.6854479">
+		<tag k="addr:housenumber" v="18"/>
+		<tag k="addr:postcode" v="28046"/>
+		<tag k="addr:street" v="FIXME Calle Conde De Torralba"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="nuestrasenoradelaguia@archimadrid.es"/>
+		<tag k="name" v="Parroquia Nuestra Señora de la Guía"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=1d5fef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26830" lat="40.4697433" lon="-3.6888811">
+		<tag k="addr:housenumber" v="207"/>
+		<tag k="addr:postcode" v="28046"/>
+		<tag k="addr:street" v="FIXME Paseo Castellana"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Nuestra Señora de Madrid"/>
+		<tag k="phone" v="+34 913152018"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=f060ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26984" lat="40.4710589" lon="-3.6858039">
+		<tag k="addr:housenumber" v="10"/>
+		<tag k="addr:postcode" v="28046"/>
+		<tag k="addr:street" v="FIXME Calle Mauricio Legendre"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Dámaso"/>
+		<tag k="phone" v="+34 917339409"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=8c780713fb71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27114" lat="40.4689316" lon="-3.676829">
+		<tag k="addr:housenumber" v="2"/>
+		<tag k="addr:postcode" v="28036"/>
+		<tag k="addr:street" v="FIXME Avenida Burgos"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Miguel Arcángel de Chamartín"/>
+		<tag k="phone" v="+34 913020100"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=0384ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27224" lat="40.473848" lon="-3.6757105">
+		<tag k="addr:housenumber" v="12"/>
+		<tag k="addr:postcode" v="28036"/>
+		<tag k="addr:street" v="FIXME Avenida Burgos"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="description" v="Parroquia personal de los alemanes"/>
+		<tag k="name" v="Parroquia Santa María"/>
+		<tag k="phone" v="+34 917680725"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=bb04b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+</osm>

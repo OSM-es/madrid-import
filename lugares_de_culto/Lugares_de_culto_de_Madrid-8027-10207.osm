@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.4302236" minlon="-3.6254882" maxlat="40.446947" maxlon="-3.6035156"/>
+	<node id="-26842" lat="40.4372431" lon="-3.6129247">
+		<tag k="addr:housenumber" v="20"/>
+		<tag k="addr:postcode" v="28022"/>
+		<tag k="addr:street" v="FIXME Calle Fenelon"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="sradelcamino@gmail.com / sradelcamino@archimadrid.es"/>
+		<tag k="name" v="Parroquia Nuestra Señora del Camino"/>
+		<tag k="phone" v="+34 917416273"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=1bb513db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27206" lat="40.4314223" lon="-3.6096886">
+		<tag k="addr:housenumber" v="8"/>
+		<tag k="addr:postcode" v="28022"/>
+		<tag k="addr:street" v="FIXME Calle Longares"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa Florentina"/>
+		<tag k="phone" v="+34 913133663"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=e651b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27262" lat="40.4452158" lon="-3.6112755">
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:postcode" v="28022"/>
+		<tag k="addr:street" v="FIXME Plaza Mora De Rubielos"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa María la Blanca"/>
+		<tag k="phone" v="+34 917410355"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=c993b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27344" lat="40.4319394" lon="-3.6141262">
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:postcode" v="28037"/>
+		<tag k="addr:street" v="FIXME Plaza Nuestra Señora De La Candelaria"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Virgen de La Candelaria"/>
+		<tag k="phone" v="+34 913203905"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=92073d232e91f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27564" lat="40.440477" lon="-3.624757">
+		<tag k="addr:housenumber" v="10"/>
+		<tag k="addr:postcode" v="28037"/>
+		<tag k="addr:street" v="FIXME Pasaje Paquitin"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="denomination" v="evangelical"/>
+		<tag k="name" v="Iglesia Evangélica de Hermanos Resurrección y Vida"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=adc86f2d39d50410VgnVCM2000000c205a0aRCRD"/>
+	</node>
+</osm>

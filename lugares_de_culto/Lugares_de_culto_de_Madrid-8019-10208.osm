@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.446947" minlon="-3.8012695" maxlat="40.4636663" maxlon="-3.7792968"/>
+	<node id="-26690" lat="40.4576646" lon="-3.7832992">
+		<tag k="addr:housenumber" v="9"/>
+		<tag k="addr:postcode" v="28023"/>
+		<tag k="addr:street" v="FIXME Calle Perez De Victoria"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Asunción de Nuestra Señora. Calle Pérez de la Victoria"/>
+		<tag k="phone" v="+34 913078654"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=de1313db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+</osm>

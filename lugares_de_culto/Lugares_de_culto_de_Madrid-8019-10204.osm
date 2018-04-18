@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.3800283" minlon="-3.8012695" maxlat="40.3967642" maxlon="-3.7792968"/>
+	<node id="-26704" lat="40.3806008" lon="-3.792655">
+		<tag k="addr:housenumber" v="19"/>
+		<tag k="addr:postcode" v="28024"/>
+		<tag k="addr:street" v="FIXME Avenida Arqueros"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Castrense Santa María de la Dehesa"/>
+		<tag k="phone" v="+34 915092372"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=fb728ed67151c010VgnVCM2000000c205a0aRCRD"/>
+	</node>
+	<node id="-26952" lat="40.3831222" lon="-3.7795605">
+		<tag k="addr:housenumber" v="27"/>
+		<tag k="addr:postcode" v="28024"/>
+		<tag k="addr:street" v="FIXME Calle Fuente Del Tiro"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Antonio María Zaccaría"/>
+		<tag k="phone" v="+34 917056976"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=5e2713db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+</osm>

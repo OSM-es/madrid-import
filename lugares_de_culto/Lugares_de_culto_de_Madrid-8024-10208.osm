@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.446947" minlon="-3.6914062" maxlat="40.4636663" maxlon="-3.6694335"/>
+	<node id="-26732" lat="40.4567559" lon="-3.6745249">
+		<tag k="addr:housenumber" v="29"/>
+		<tag k="addr:postcode" v="28016"/>
+		<tag k="addr:street" v="FIXME Calle Puerto Rico"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Espíritu Santo y Nuestra Señora de la Araucana"/>
+		<tag k="phone" v="+34 914579965"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=ab7313db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26876" lat="40.4633768" lon="-3.6761835">
+		<tag k="addr:housenumber" v="29"/>
+		<tag k="addr:postcode" v="28016"/>
+		<tag k="addr:street" v="FIXME Avenida Pio Xii"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="info@parroquia-nssc.org / pnssc@archimadrid.es"/>
+		<tag k="name" v="Parroquia Nuestra Señora del Sagrado Corazón"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=2d21ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26904" lat="40.4524215" lon="-3.6747175">
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:postcode" v="28016"/>
+		<tag k="addr:street" v="FIXME Calle Puerto Rico"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Nuestra Señora de Guadalupe"/>
+		<tag k="phone" v="+34 914570039"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=f73fef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26928" lat="40.4527282" lon="-3.6853698">
+		<tag k="addr:housenumber" v="31"/>
+		<tag k="addr:postcode" v="28036"/>
+		<tag k="addr:street" v="FIXME Paseo La Habana"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Sagrados Corazones"/>
+		<tag k="phone" v="+34 915647900"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=9342ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27004" lat="40.4597975" lon="-3.6873406">
+		<tag k="addr:housenumber" v="9"/>
+		<tag k="addr:postcode" v="28036"/>
+		<tag k="addr:street" v="FIXME Avenida Alberto Alcocer"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Fernando"/>
+		<tag k="phone" v="+34 913500841"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=4b590713fb71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27054" lat="40.4558912" lon="-3.6867347">
+		<tag k="addr:housenumber" v="22"/>
+		<tag k="addr:postcode" v="28036"/>
+		<tag k="addr:street" v="FIXME Calle Padre Damian"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Jorge"/>
+		<tag k="phone" v="+34 914582531"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=e433ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27078" lat="40.449604" lon="-3.6789229">
+		<tag k="addr:housenumber" v="57"/>
+		<tag k="addr:postcode" v="28002"/>
+		<tag k="addr:street" v="FIXME Calle Rodriguez Marin"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Juan de Ribera"/>
+		<tag k="phone" v="+34 915637278"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=d6b3ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27208" lat="40.4478941" lon="-3.6816887">
+		<tag k="addr:housenumber" v="24"/>
+		<tag k="addr:postcode" v="28002"/>
+		<tag k="addr:street" v="FIXME Calle Leizaran"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa Gema"/>
+		<tag k="phone" v="+34 915635068"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=0d61b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27268" lat="40.4634099" lon="-3.6705104">
+		<tag k="addr:housenumber" v="23"/>
+		<tag k="addr:postcode" v="28016"/>
+		<tag k="addr:street" v="FIXME Calle Dracena"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa María Magdalena"/>
+		<tag k="phone" v="+34 913454938"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=4bd3b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27338" lat="40.4633637" lon="-3.6860559">
+		<tag k="addr:housenumber" v="13"/>
+		<tag k="addr:postcode" v="28036"/>
+		<tag k="addr:street" v="FIXME Calle Felix Boix"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santísimo Redentor"/>
+		<tag k="phone" v="+34 913453600"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=bfd53d232e91f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27446" lat="40.4577624" lon="-3.6718695">
+		<tag k="addr:housenumber" v="58-60"/>
+		<tag k="addr:postcode" v="28016"/>
+		<tag k="addr:street" v="FIXME Calle Víctor De La Serna"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="denomination" v="evangelical"/>
+		<tag k="name" v="Iglesia Cristiana Evangélica de Chamartín"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=474204a5d0260410VgnVCM2000000c205a0aRCRD"/>
+	</node>
+	<node id="-27568" lat="40.4575491" lon="-3.6729053">
+		<tag k="addr:housenumber" v="12"/>
+		<tag k="addr:postcode" v="28016"/>
+		<tag k="addr:street" v="FIXME Calle Nicaragua"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="cathedral"/>
+		<tag k="denomination" v="greek_orthodox"/>
+		<tag k="fax" v="+34 913509374"/>
+		<tag k="name" v="Catedral Ortodoxa Griega"/>
+		<tag k="phone" v="+34 913454085"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=82547b503a71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+</osm>

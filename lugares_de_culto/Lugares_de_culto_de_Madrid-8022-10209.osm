@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.4636663" minlon="-3.7353515" maxlat="40.4803814" maxlon="-3.7133789"/>
+	<node id="-26746" lat="40.4674493" lon="-3.7193971">
+		<tag k="addr:housenumber" v="24"/>
+		<tag k="addr:postcode" v="28035"/>
+		<tag k="addr:street" v="FIXME Calle Antonio Machado"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia la Cena del Señor"/>
+		<tag k="phone" v="+34 913733032"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=c0a313db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27020" lat="40.4643808" lon="-3.7231506">
+		<tag k="addr:housenumber" v="49"/>
+		<tag k="addr:postcode" v="28035"/>
+		<tag k="addr:street" v="FIXME Calle Isla De Oza"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Gabriel Arcángel"/>
+		<tag k="phone" v="+34 913161300"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=3dd90713fb71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27144" lat="40.4757488" lon="-3.7305161">
+		<tag k="addr:housenumber" v="35"/>
+		<tag k="addr:postcode" v="28035"/>
+		<tag k="addr:street" v="FIXME Calle Isla De Saipan"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Rafael Arcángel"/>
+		<tag k="phone" v="+34 913739400"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=a16eb069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27238" lat="40.4788085" lon="-3.713761">
+		<tag k="addr:housenumber" v="16"/>
+		<tag k="addr:postcode" v="28029"/>
+		<tag k="addr:street" v="FIXME Calle Puerto De Maspalomas"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa María de la Fe"/>
+		<tag k="phone" v="+34 913860220"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=7362b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27292" lat="40.4726221" lon="-3.7205729">
+		<tag k="addr:housenumber" v="7"/>
+		<tag k="addr:postcode" v="28035"/>
+		<tag k="addr:street" v="FIXME Calle Cesar Manrique"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa Ángela de la Cruz"/>
+		<tag k="phone" v="+34 913733691"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=b7efb069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27546" lat="40.4729557" lon="-3.7161763">
+		<tag k="addr:housenumber" v="43"/>
+		<tag k="addr:postcode" v="28035"/>
+		<tag k="addr:street" v="FIXME Calle Chantada"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="denomination" v="jehovahs_witness"/>
+		<tag k="name" v="Testigos Cristianos de Jehová. Calle Chantada"/>
+		<tag k="phone" v="+34 913737210"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=f493784e0cc4f010VgnVCM2000000c205a0aRCRD"/>
+	</node>
+	<node id="-27554" lat="40.4791594" lon="-3.7138237">
+		<tag k="addr:housenumber" v="22"/>
+		<tag k="addr:postcode" v="28029"/>
+		<tag k="addr:street" v="FIXME Calle Puerto De Maspalomas"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="name" v="Iglesia de los Hermanos en La Vaguada"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=3c33c91fc0d50410VgnVCM2000000c205a0aRCRD"/>
+	</node>
+</osm>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.5137991" minlon="-3.8012695" maxlat="40.5305017" maxlon="-3.7792968"/>
+	<node id="-26630" lat="40.5194205" lon="-3.7886096">
+		<tag k="addr:housenumber" v="11"/>
+		<tag k="addr:postcode" v="28048"/>
+		<tag k="addr:street" v="FIXME Pista Cristo De El Pardo"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Iglesia Convento del Santísimo Cristo del Pardo"/>
+		<tag k="phone" v="+34 913760800"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=f4961e79ee71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+</osm>

@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.3967642" minlon="-3.7353515" maxlat="40.413496" maxlon="-3.7133789"/>
+	<node id="-26622" lat="40.3994983" lon="-3.7316827">
+		<tag k="addr:housenumber" v="78"/>
+		<tag k="addr:postcode" v="28019"/>
+		<tag k="addr:street" v="FIXME Paseo Ermita Del Santo"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="description" v="Descripción monumental: construida en 1528, sufre una completa transformación en 1725."/>
+		<tag k="name" v="Ermita de San Isidro"/>
+		<tag k="opening_hours" v="Ermita: sábados de 11 a 13 horas (celebración de la Eucaristía a las 12 horas). Fuente del Santo: sólo permanece abierta desde la semana anterior a la fiesta de San Isidro hasta la semana posterior. Oficio en rito hispano mozárabe: los días 2 de enero a las 18 horas (comienzo del año Caput anni) y 11 de mayo a las 18,30 horas (aniversario de la dedicación)."/>
+		<tag k="phone" v="+34 915690055"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=913cfa8389c10310VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27016" lat="40.4018514" lon="-3.7242487">
+		<tag k="addr:housenumber" v="9"/>
+		<tag k="addr:postcode" v="28019"/>
+		<tag k="addr:street" v="FIXME Paseo San Illan"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Fulgencio y San Bernardo"/>
+		<tag k="phone" v="+34 915690055"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=aac90713fb71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27032" lat="40.411013" lon="-3.7200214">
+		<tag k="addr:housenumber" v="4"/>
+		<tag k="addr:postcode" v="28005"/>
+		<tag k="addr:street" v="FIXME Calle Fosforo"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Hermenegildo"/>
+		<tag k="phone" v="+34 913662971"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=4b72ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27068" lat="40.4101343" lon="-3.7350979">
+		<tag k="addr:housenumber" v="9"/>
+		<tag k="addr:postcode" v="28011"/>
+		<tag k="addr:street" v="FIXME Calle Doctor Larra Y Cerezo"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Juan Bosco"/>
+		<tag k="phone" v="+34 914634189"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=2f73ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27218" lat="40.4098064" lon="-3.7285415">
+		<tag k="addr:housenumber" v="33"/>
+		<tag k="addr:postcode" v="28011"/>
+		<tag k="addr:street" v="FIXME Calle Jaime Vera"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa Margarita María de Alacoque"/>
+		<tag k="phone" v="+34 914649930"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=0bc1b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27232" lat="40.4132841" lon="-3.7169812">
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:postcode" v="28005"/>
+		<tag k="addr:street" v="FIXME Ronda Segovia"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa María de la Cabeza"/>
+		<tag k="phone" v="+34 913658518"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=4b12b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27280" lat="40.3988559" lon="-3.7335376">
+		<tag k="addr:housenumber" v="47"/>
+		<tag k="addr:postcode" v="28047"/>
+		<tag k="addr:street" v="FIXME Calle Via Carpetana"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa Rosa de Lima"/>
+		<tag k="phone" v="+34 914281170"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=9084b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27294" lat="40.407163" lon="-3.7348299">
+		<tag k="addr:housenumber" v="7"/>
+		<tag k="addr:postcode" v="28011"/>
+		<tag k="addr:street" v="FIXME Calle Santa Aurea"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santas Justa y Rufina"/>
+		<tag k="phone" v="+34 914639960"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=a5e4b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27380" lat="40.41084" lon="-3.7145038">
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:postcode" v="28005"/>
+		<tag k="addr:street" v="FIXME Calle San Buenaventura"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="description" v="Conjunto conventual que sustituyó al monasterio franciscano medieval, construido por Francisco de las Cabezas entre 1761 y 1768, que fue relevado por Antonio Polo y que concluye Francisco Sabatini en 1784 donde se exponen colecciones de pinturas de los siglos XVII al XIX."/>
+		<tag k="name" v="Real Basílica San Francisco el Grande"/>
+		<tag k="opening_hours" v="Museo: De martes a viernes de 10:30 a 12:30 y de 16 a 18 horas Sábados de 10:30 a 12:30 y de 16 a 18 horas (si no se ofician actos religiosos). Julio, agosto y Septiembre: de martes a domingo de 10:30 a 12:30 y de 17 a 19 horas."/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=ef8d0713fb71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+</osm>

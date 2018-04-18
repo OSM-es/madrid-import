@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.3297957" minlon="-3.6914062" maxlat="40.3465441" maxlon="-3.6694335"/>
+	<node id="-26824" lat="40.3427609" lon="-3.6903193">
+		<tag k="addr:housenumber" v="6"/>
+		<tag k="addr:postcode" v="28021"/>
+		<tag k="addr:street" v="FIXME Plaza Pinazo"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="unidadpastoralsancristobal@archimadrid.es"/>
+		<tag k="name" v="Parroquia Nuestra Señora de los Desamparados"/>
+		<tag k="phone" v="+34 917950874"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=d07513db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27096" lat="40.3428759" lon="-3.6876595">
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:postcode" v="28021"/>
+		<tag k="addr:street" v="FIXME Plaza Paloma De La Paz"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Lucas"/>
+		<tag k="phone" v="+34 917972609"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=3624ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+</osm>

@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.4302236" minlon="-3.6474609" maxlat="40.446947" maxlon="-3.6254882"/>
+	<node id="-26714" lat="40.4445844" lon="-3.633179">
+		<tag k="addr:housenumber" v="52"/>
+		<tag k="addr:postcode" v="28027"/>
+		<tag k="addr:street" v="FIXME Calle Lopez De Aranda"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Cristo Sacerdote"/>
+		<tag k="phone" v="+34 917421106"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=afb48aa6bd91f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26770" lat="40.4385623" lon="-3.6388292">
+		<tag k="addr:housenumber" v="5"/>
+		<tag k="addr:postcode" v="28027"/>
+		<tag k="addr:street" v="FIXME Calle Arturo Soria"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="concepcionpn@archimadrid.es"/>
+		<tag k="name" v="Parroquia Nuestra Señora de la Concepción (Pueblo Nuevo)"/>
+		<tag k="phone" v="+34 913674016"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=129413db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26834" lat="40.4326208" lon="-3.6445146">
+		<tag k="addr:housenumber" v="38"/>
+		<tag k="addr:postcode" v="28017"/>
+		<tag k="addr:street" v="FIXME Calle Timoteo Domingo"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="despacho@parroquiasonsoles.com / nssonsoles@archimadrid.es"/>
+		<tag k="name" v="Parroquia Nuestra Señora de Sonsoles"/>
+		<tag k="phone" v="+34 913675693"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=1680ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27048" lat="40.4339013" lon="-3.6377948">
+		<tag k="addr:housenumber" v="81"/>
+		<tag k="addr:postcode" v="28017"/>
+		<tag k="addr:street" v="FIXME Calle Vital Aza"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Jenaro"/>
+		<tag k="phone" v="+34 913672238"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=3df2ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27310" lat="40.4304161" lon="-3.6342958">
+		<tag k="addr:housenumber" v="2"/>
+		<tag k="addr:postcode" v="28017"/>
+		<tag k="addr:street" v="FIXME Calle Santo Domingo Savio"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santo Domingo Savio"/>
+		<tag k="phone" v="+34 913683105"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=58563d232e91f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27328" lat="40.441281" lon="-3.6424513">
+		<tag k="addr:housenumber" v="38"/>
+		<tag k="addr:postcode" v="28027"/>
+		<tag k="addr:street" v="FIXME Calle Misterios"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santísimo Cristo de la Esperanza"/>
+		<tag k="phone" v="+34 913670208"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=7665b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27448" lat="40.4367729" lon="-3.634945">
+		<tag k="addr:housenumber" v="13"/>
+		<tag k="addr:postcode" v="28037"/>
+		<tag k="addr:street" v="FIXME Calle Argos"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="denomination" v="evangelical"/>
+		<tag k="name" v="Iglesia Evangélica Nueva Vida"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=4996e44317350410VgnVCM2000000c205a0aRCRD"/>
+	</node>
+	<node id="-27476" lat="40.4338748" lon="-3.6441965">
+		<tag k="addr:housenumber" v="13"/>
+		<tag k="addr:postcode" v="28017"/>
+		<tag k="addr:street" v="FIXME Calle Gutierre De Cetina"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="denomination" v="baptist"/>
+		<tag k="name" v="Iglesia Bautista Pueblo Nuevo"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=0304efba3c850410VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27516" lat="40.4397671" lon="-3.6260946">
+		<tag k="addr:housenumber" v="9"/>
+		<tag k="addr:postcode" v="28037"/>
+		<tag k="addr:street" v="FIXME Calle Valentin Beato"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="name" v="Iglesia Celebración Cristiana"/>
+		<tag k="phone" v="+34 913758415"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=f5e7efba3c850410VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27566" lat="40.4382978" lon="-3.6442741">
+		<tag k="addr:housenumber" v="46"/>
+		<tag k="addr:postcode" v="28027"/>
+		<tag k="addr:street" v="FIXME Calle Prudencio Alvaro"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="name" v="Iglesia Dios es Amor - Unión Cristiana"/>
+		<tag k="phone" v="+34 915098974"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=dd257b05a8350410VgnVCM2000000c205a0aRCRD"/>
+	</node>
+</osm>

@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.3967642" minlon="-3.6474609" maxlat="40.413496" maxlon="-3.6254882"/>
+	<node id="-26784" lat="40.4019236" lon="-3.6451174">
+		<tag k="addr:housenumber" v="101"/>
+		<tag k="addr:postcode" v="28030"/>
+		<tag k="addr:street" v="FIXME Calle Corregidor Juan Francisco De Lujan"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="nuestrasenoradelamerced@archimadrid.es"/>
+		<tag k="name" v="Parroquia Nuestra Señora de la Merced"/>
+		<tag k="phone" v="+34 917739829"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=328fef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26790" lat="40.4018253" lon="-3.6319179">
+		<tag k="addr:housenumber" v="29"/>
+		<tag k="addr:postcode" v="28030"/>
+		<tag k="addr:street" v="FIXME Calle Valdebernardo"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="description" v="su actividad pastoral la realiza junto a Sta. María del Camin."/>
+		<tag k="email" v="smcaminoynspalabra@archimadrid.es"/>
+		<tag k="name" v="Parroquia Nuestra Señora de la Palabra"/>
+		<tag k="phone" v="+34 917721569"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=610a444a2951c010VgnVCM2000000c205a0aRCRD"/>
+	</node>
+	<node id="-26822" lat="40.4030844" lon="-3.6372446">
+		<tag k="addr:housenumber" v="94"/>
+		<tag k="addr:postcode" v="28030"/>
+		<tag k="addr:street" v="FIXME Calle Luis De Hoyos Sainz"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="nsapostoles@archimadrid.es"/>
+		<tag k="name" v="Parroquia Nuestra Señora de los Apóstoles"/>
+		<tag k="phone" v="+34 913714411"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=4e5513db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27176" lat="40.4054196" lon="-3.6450211">
+		<tag k="addr:housenumber" v="35"/>
+		<tag k="addr:postcode" v="28030"/>
+		<tag k="addr:street" v="FIXME Calle Ca--FIXME--Amp;Ntilde;Ada"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa Ana y Nuestra Señora de la Esperanza"/>
+		<tag k="phone" v="+34 914303298"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=71dfb069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27240" lat="40.408828" lon="-3.6347295">
+		<tag k="addr:housenumber" v="2"/>
+		<tag k="addr:postcode" v="28030"/>
+		<tag k="addr:street" v="FIXME Calle Fobos"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa María de Martala"/>
+		<tag k="phone" v="+34 913713294"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=7972b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27244" lat="40.3994024" lon="-3.6416406">
+		<tag k="addr:housenumber" v="192"/>
+		<tag k="addr:postcode" v="28030"/>
+		<tag k="addr:street" v="FIXME Calle Encomienda De Palacios"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa María del Buen Aire"/>
+		<tag k="phone" v="+34 917730363"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=75a2b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27376" lat="40.4073029" lon="-3.6400892">
+		<tag k="addr:housenumber" v="82"/>
+		<tag k="addr:postcode" v="28030"/>
+		<tag k="addr:street" v="FIXME Calle Pico De Los Artilleros"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="parroquia.visitacion@archimadrid.es"/>
+		<tag k="name" v="Parroquia Visitación de Nuestra Señora"/>
+		<tag k="phone" v="+34 917733705"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=b5388c7c0f91f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+</osm>

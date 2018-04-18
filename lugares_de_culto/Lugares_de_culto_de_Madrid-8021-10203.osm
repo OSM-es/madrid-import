@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.3632883" minlon="-3.7573242" maxlat="40.3800283" maxlon="-3.7353515"/>
+	<node id="-26648" lat="40.3731995" lon="-3.755699">
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:postcode" v="28044"/>
+		<tag k="addr:street" v="FIXME Calle Madre Celeste"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Iglesia Madres Redentoristas"/>
+		<tag k="phone" v="+34 915086800"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=28613d232e91f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26878" lat="40.3767527" lon="-3.7454194">
+		<tag k="addr:housenumber" v="14"/>
+		<tag k="addr:postcode" v="28025"/>
+		<tag k="addr:street" v="FIXME Calle El Siglo Futuro"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="sagrariomadrid@gmail.com / sagrariomadrid@archimadrid.es"/>
+		<tag k="name" v="Parroquia Nuestra Señora del Sagrario"/>
+		<tag k="phone" v="+34 914623723"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=bf31ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26960" lat="40.3767533" lon="-3.7354771">
+		<tag k="addr:housenumber" v="7"/>
+		<tag k="addr:postcode" v="28025"/>
+		<tag k="addr:street" v="FIXME Calle Besolla"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Benito Abad"/>
+		<tag k="phone" v="+34 914628961"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=2b8713db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26962" lat="40.3662936" lon="-3.7411465">
+		<tag k="addr:housenumber" v="2"/>
+		<tag k="addr:postcode" v="28054"/>
+		<tag k="addr:street" v="FIXME Calle Catorce Olivas"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Benito Menni"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=f4e0789b266fd410VgnVCM2000000c205a0aRCRD"/>
+	</node>
+	<node id="-27044" lat="40.3785157" lon="-3.7514232">
+		<tag k="addr:housenumber" v="54"/>
+		<tag k="addr:postcode" v="28047"/>
+		<tag k="addr:street" v="FIXME Calle Parque Eugenia De Montijo"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Isidro Labrador"/>
+		<tag k="phone" v="+34 914621304"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=18d2ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27132" lat="40.3735674" lon="-3.7503906">
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:postcode" v="28044"/>
+		<tag k="addr:street" v="FIXME Plaza Seis De Diciembre"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Pedro Apóstol (Carabanchel)"/>
+		<tag k="phone" v="+34 915086959"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=830eb069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27266" lat="40.3688149" lon="-3.7566394">
+		<tag k="addr:housenumber" v="30"/>
+		<tag k="addr:postcode" v="28044"/>
+		<tag k="addr:street" v="FIXME Calle Gomez De Arteche"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa María Madre de la Iglesia"/>
+		<tag k="phone" v="+34 915082374"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=45c3b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27442" lat="40.3693018" lon="-3.7454786">
+		<tag k="addr:housenumber" v="20"/>
+		<tag k="addr:postcode" v="28044"/>
+		<tag k="addr:street" v="FIXME Calle Secoya"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="name" v="Iglesia Comunidad Cristiana de Fe"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=5c77b8d07d850410VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27452" lat="40.3727999" lon="-3.7450814">
+		<tag k="addr:housenumber" v="8"/>
+		<tag k="addr:postcode" v="28044"/>
+		<tag k="addr:street" v="FIXME Calle Antonia Rodríguez Sacristán"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="denomination" v="evangelical"/>
+		<tag k="description" v="Orienta sus actividades de ayuda social hacia los colectivos más desfavorecidos socialmente, constituidos por personas en situación o en riesgo de exclusión social: reclusos y ex-reclusos, personas sin hogar, drogodependientes de perfil marginal, inmigrantes, etc. Residencia y talleres terapéuticos para personas drogodependientes Reuniones de grupos Actividades culturales Ocio y tiempo libre Recogida, recuperación y venta de antig--FIXME--uuml;edades, ropa usada, portes y mudanza."/>
+		<tag k="name" v="Asociación Betel"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=9de076172d71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27534" lat="40.3692604" lon="-3.7449128">
+		<tag k="addr:housenumber" v="19"/>
+		<tag k="addr:postcode" v="28044"/>
+		<tag k="addr:street" v="FIXME Calle Secoya"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="denomination" v="seventh_day_adventist"/>
+		<tag k="description" v="Habla rumana"/>
+		<tag k="name" v="Iglesia Cristiana Adventista del Séptimo Día. Madrid Calatrava"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=3a870bf21677f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27556" lat="40.3775631" lon="-3.7538276">
+		<tag k="addr:housenumber" v="70"/>
+		<tag k="addr:postcode" v="28047"/>
+		<tag k="addr:street" v="FIXME Calle Jacobinia"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="denomination" v="jehovahs_witness"/>
+		<tag k="name" v="Testigos Cristianos de Jehová. Calle Jacobinia"/>
+		<tag k="phone" v="+34 914622474"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=9614784e0cc4f010VgnVCM2000000c205a0aRCRD"/>
+	</node>
+</osm>

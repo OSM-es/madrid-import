@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.4803814" minlon="-3.6694335" maxlat="40.4970923" maxlon="-3.6474609"/>
+	<node id="-27146" lat="40.4899978" lon="-3.6575356">
+		<tag k="addr:housenumber" v="2"/>
+		<tag k="addr:postcode" v="28050"/>
+		<tag k="addr:street" v="FIXME Calle Octavio Paz"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Rafael Arnáiz"/>
+		<tag k="phone" v="+34 917048661"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=4742ebdd8854f410VgnVCM2000000c205a0aRCRD"/>
+	</node>
+	<node id="-27368" lat="40.4879752" lon="-3.6630616">
+		<tag k="addr:housenumber" v="91"/>
+		<tag k="addr:postcode" v="28050"/>
+		<tag k="addr:street" v="FIXME Calle O--FIXME--Amp;Ntilde;A"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Virgen del Cortijo"/>
+		<tag k="phone" v="+34 917663081"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=88d73d232e91f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+</osm>

@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.3967642" minlon="-3.6254882" maxlat="40.413496" maxlon="-3.6035156"/>
+	<node id="-26698" lat="40.3967741" lon="-3.6061355">
+		<tag k="addr:housenumber" v="58"/>
+		<tag k="addr:postcode" v="28032"/>
+		<tag k="addr:street" v="FIXME Calle Minerva"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Beata Teresa de Calcuta"/>
+		<tag k="phone" v="+34 917768162"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=3c7ce72dd138f410VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27030" lat="40.401788" lon="-3.6204985">
+		<tag k="addr:housenumber" v="13"/>
+		<tag k="addr:postcode" v="28032"/>
+		<tag k="addr:street" v="FIXME Bulevar Indalecio Prieto"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Gregorio Magno"/>
+		<tag k="phone" v="+34 917512960"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=76a58ed67151c010VgnVCM2000000c205a0aRCRD"/>
+	</node>
+	<node id="-27166" lat="40.4070978" lon="-3.6062753">
+		<tag k="addr:housenumber" v="75"/>
+		<tag k="addr:postcode" v="28032"/>
+		<tag k="addr:street" v="FIXME Calle Villajimena"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Valentín y San Casimiro"/>
+		<tag k="phone" v="+34 913718941"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=0e5fb069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27230" lat="40.4018488" lon="-3.605639">
+		<tag k="addr:housenumber" v="9"/>
+		<tag k="addr:postcode" v="28032"/>
+		<tag k="addr:street" v="FIXME Calle Virgen De La Antigua"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa María de la Antigua"/>
+		<tag k="phone" v="+34 917765202"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=9e73b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27286" lat="40.3967741" lon="-3.6061355">
+		<tag k="addr:housenumber" v="58"/>
+		<tag k="addr:postcode" v="28032"/>
+		<tag k="addr:street" v="FIXME Calle Minerva"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="bteresadecalcuta@archimadrid.es"/>
+		<tag k="name" v="Parroquia Santa Teresa de Calcuta"/>
+		<tag k="phone" v="+34 917768162"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=3b898142a0d6e410VgnVCM2000000c205a0aRCRD"/>
+	</node>
+	<node id="-27330" lat="40.4050112" lon="-3.6158377">
+		<tag k="addr:housenumber" v="18"/>
+		<tag k="addr:postcode" v="28032"/>
+		<tag k="addr:street" v="FIXME Camino Viejo De Vicalvaro"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santísimo Cristo de la Guía"/>
+		<tag k="phone" v="+34 917767301"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=6385b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27540" lat="40.4059809" lon="-3.6062299">
+		<tag k="addr:housenumber" v="14"/>
+		<tag k="addr:postcode" v="28032"/>
+		<tag k="addr:street" v="FIXME Calle Villacarlos"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="denomination" v="evangelical"/>
+		<tag k="name" v="Iglesia Evangélica Pueblo Nuevo"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=d6adfe5dfad50410VgnVCM2000000c205a0aRCRD"/>
+	</node>
+</osm>

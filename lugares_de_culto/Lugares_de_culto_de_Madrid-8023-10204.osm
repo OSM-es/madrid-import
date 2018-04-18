@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.3800283" minlon="-3.7133789" maxlat="40.3967642" maxlon="-3.6914062"/>
+	<node id="-26694" lat="40.3940185" lon="-3.6970521">
+		<tag k="addr:housenumber" v="10"/>
+		<tag k="addr:postcode" v="28045"/>
+		<tag k="addr:street" v="FIXME Calle Guillermo De Osma"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Beata María Ana de Jesús"/>
+		<tag k="phone" v="+34 914734973"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=d9edef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26712" lat="40.3866517" lon="-3.7040452">
+		<tag k="addr:housenumber" v="15"/>
+		<tag k="addr:postcode" v="28026"/>
+		<tag k="addr:street" v="FIXME Calle Amor Hermoso"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Cristo Rey de Usera"/>
+		<tag k="phone" v="+34 914761814"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=02c213db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26776" lat="40.3833253" lon="-3.6984498">
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:postcode" v="28026"/>
+		<tag k="addr:street" v="FIXME Plaza Angelica Señora"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="pnsfuencisla@gmail.com"/>
+		<tag k="name" v="Parroquia Nuestra Señora de la Fuencisla"/>
+		<tag k="phone" v="+34 914765727"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=c9c413db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26798" lat="40.3827816" lon="-3.7019432">
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:postcode" v="28026"/>
+		<tag k="addr:street" v="FIXME Calle Visitacion"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="pnssoledad@archimadrid.es"/>
+		<tag k="name" v="Parroquia Nuestra Señora de la Soledad"/>
+		<tag k="phone" v="+34 917924245"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=91ffef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26926" lat="40.3904636" lon="-3.7097757">
+		<tag k="addr:housenumber" v="115"/>
+		<tag k="addr:postcode" v="28026"/>
+		<tag k="addr:street" v="FIXME Paseo Santa Maria De La Cabeza"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Sagrado Corazón de Jesús. Paseo Santa María de la Cabeza"/>
+		<tag k="phone" v="+34 915696687"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=0132ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26958" lat="40.3966403" lon="-3.7000132">
+		<tag k="addr:housenumber" v="36"/>
+		<tag k="addr:postcode" v="28045"/>
+		<tag k="addr:street" v="FIXME Calle Fernando Poo"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Basilio el Grande"/>
+		<tag k="phone" v="+34 914732135"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=987713db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27184" lat="40.3933476" lon="-3.7095939">
+		<tag k="addr:housenumber" v="10"/>
+		<tag k="addr:postcode" v="28019"/>
+		<tag k="addr:street" v="FIXME Calle Parador Del Sol"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa Casilda"/>
+		<tag k="phone" v="+34 915691090"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=4c40b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27342" lat="40.3834839" lon="-3.7079235">
+		<tag k="addr:housenumber" v="34"/>
+		<tag k="addr:postcode" v="28026"/>
+		<tag k="addr:street" v="FIXME Calle Isabelita Usera"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Transfiguración del Señor"/>
+		<tag k="phone" v="+34 914751875"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=9fe63d232e91f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27360" lat="40.3960142" lon="-3.7110713">
+		<tag k="addr:housenumber" v="8"/>
+		<tag k="addr:postcode" v="28019"/>
+		<tag k="addr:street" v="FIXME Calle Tomasa Ruiz"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Virgen de Los Remedios"/>
+		<tag k="phone" v="+34 915698947"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=5a973d232e91f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27402" lat="40.3885308" lon="-3.7017201">
+		<tag k="addr:housenumber" v="4"/>
+		<tag k="addr:postcode" v="28026"/>
+		<tag k="addr:street" v="FIXME Calle Marcudos"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="denomination" v="jehovahs_witness"/>
+		<tag k="name" v="Testigos Cristianos de Jehová. Calle Marcudos"/>
+		<tag k="phone" v="+34 917921135"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=1c64784e0cc4f010VgnVCM2000000c205a0aRCRD"/>
+	</node>
+	<node id="-27412" lat="40.3815272" lon="-3.7082093">
+		<tag k="addr:housenumber" v="12"/>
+		<tag k="addr:postcode" v="28026"/>
+		<tag k="addr:street" v="FIXME Calle Carrascales"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="denomination" v="jehovahs_witness"/>
+		<tag k="name" v="Testigos Cristianos de Jehová. Calle Carrascales"/>
+		<tag k="phone" v="+34 914768456"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=13c13b49d7619210VgnVCM2000000c205a0aRCRD"/>
+	</node>
+	<node id="-27424" lat="40.3942544" lon="-3.7130323">
+		<tag k="addr:housenumber" v="3"/>
+		<tag k="addr:postcode" v="28019"/>
+		<tag k="addr:street" v="FIXME Calle Fernando Diaz De Mendoza"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="denomination" v="evangelical"/>
+		<tag k="name" v="Iglesia Evangélica Pentecostal Bethel"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=a2cf6f065851c010VgnVCM2000000c205a0aRCRD"/>
+	</node>
+	<node id="-27498" lat="40.3876035" lon="-3.7016044">
+		<tag k="addr:housenumber" v="22"/>
+		<tag k="addr:postcode" v="28026"/>
+		<tag k="addr:street" v="FIXME Calle Monederos"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="name" v="Iglesia Evangelio Cuadrangular Vida Nueva Usera"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=db313ddd32d50410VgnVCM2000000c205a0aRCRD"/>
+	</node>
+	<node id="-27548" lat="40.3947916" lon="-3.707712">
+		<tag k="addr:housenumber" v="5"/>
+		<tag k="addr:postcode" v="28019"/>
+		<tag k="addr:street" v="FIXME Calle San Delfin"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="denomination" v="seventh_day_adventist"/>
+		<tag k="name" v="Iglesia Cristiana Adventista del Séptimo Día. Madrid Noviciado de Horeb"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=384fcef44b421510VgnVCM2000000c205a0aRCRD"/>
+	</node>
+	<node id="-27588" lat="40.3844811" lon="-3.7098425">
+		<tag k="addr:housenumber" v="41"/>
+		<tag k="addr:postcode" v="28026"/>
+		<tag k="addr:street" v="FIXME Calle Madridejos"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="denomination" v="baptist"/>
+		<tag k="name" v="Iglesia Bautista de Usera"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=9d28ec795b750410VgnVCM2000000c205a0aRCRD"/>
+	</node>
+</osm>

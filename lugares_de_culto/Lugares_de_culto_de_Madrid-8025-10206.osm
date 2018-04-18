@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.413496" minlon="-3.6694335" maxlat="40.4302236" maxlon="-3.6474609"/>
+	<node id="-26654" lat="40.42057" lon="-3.6693069">
+		<tag k="addr:housenumber" v="44"/>
+		<tag k="addr:postcode" v="28007"/>
+		<tag k="addr:street" v="FIXME Calle Doctor Esquerdo"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Iglesia Nuestra Señora de la Paz"/>
+		<tag k="phone" v="+34 914090943"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=b207f5177659f010VgnVCM2000000c205a0aRCRD"/>
+	</node>
+	<node id="-26772" lat="40.4159471" lon="-3.6632734">
+		<tag k="addr:housenumber" v="2"/>
+		<tag k="addr:postcode" v="28007"/>
+		<tag k="addr:street" v="FIXME Calle Juan Esplandiu"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="par.consolacion@archimadrid.es"/>
+		<tag k="name" v="Parroquia Nuestra Señora de la Consolación"/>
+		<tag k="phone" v="+34 915749281"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=a4a413db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26900" lat="40.4288325" lon="-3.6690941">
+		<tag k="addr:housenumber" v="2"/>
+		<tag k="addr:postcode" v="28028"/>
+		<tag k="addr:street" v="FIXME Calle Francisco Silvela"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Nuestra Señora de Covadonga"/>
+		<tag k="phone" v="+34 917252032"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=6a5413db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26922" lat="40.4239571" lon="-3.6662401">
+		<tag k="addr:housenumber" v="12"/>
+		<tag k="addr:postcode" v="28028"/>
+		<tag k="addr:street" v="FIXME Calle Los Pe--FIXME--Amp;Ntilde;Ascales"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Sagrada Familia"/>
+		<tag k="phone" v="+34 915744459"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=eb02ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26990" lat="40.4260824" lon="-3.6553567">
+		<tag k="addr:housenumber" v="4"/>
+		<tag k="addr:postcode" v="28017"/>
+		<tag k="addr:street" v="FIXME Travesia Jose Noriega"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Emilio"/>
+		<tag k="phone" v="+34 914048459"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=c6c80713fb71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26992" lat="40.4161293" lon="-3.6691686">
+		<tag k="addr:housenumber" v="97"/>
+		<tag k="addr:postcode" v="28007"/>
+		<tag k="addr:street" v="FIXME Calle Doctor Esquerdo"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Estanislao de Kostka"/>
+		<tag k="phone" v="+34 915734603"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=59d80713fb71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27128" lat="40.4295346" lon="-3.662947">
+		<tag k="addr:housenumber" v="12"/>
+		<tag k="addr:postcode" v="28028"/>
+		<tag k="addr:street" v="FIXME Calle Alejandro Gonzalez"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Patricio"/>
+		<tag k="phone" v="+34 917252230"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=62f4ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27296" lat="40.4266892" lon="-3.6499987">
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:postcode" v="28017"/>
+		<tag k="addr:street" v="FIXME Calle Santa Felicidad"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santas Perpetua y Felicidad"/>
+		<tag k="phone" v="+34 914052783"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=a105b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27318" lat="40.4222373" lon="-3.6518537">
+		<tag k="addr:housenumber" v="79"/>
+		<tag k="addr:postcode" v="28017"/>
+		<tag k="addr:street" v="FIXME Calle Jose Luis De Arrese"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santos Apóstoles Felipe y Santiago"/>
+		<tag k="phone" v="+34 917256737"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=14a63d232e91f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27408" lat="40.4254523" lon="-3.6678581">
+		<tag k="addr:housenumber" v="126"/>
+		<tag k="addr:postcode" v="28028"/>
+		<tag k="addr:street" v="FIXME Calle Hermosilla"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="name" v="Iglesia Ejército de Salvación, Hermosilla"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=8d9f6f065851c010VgnVCM2000000c205a0aRCRD"/>
+	</node>
+	<node id="-27514" lat="40.4290845" lon="-3.6565765">
+		<tag k="addr:housenumber" v="3"/>
+		<tag k="addr:postcode" v="28017"/>
+		<tag k="addr:street" v="FIXME Calle Ignacio Ellacuría"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="denomination" v="jehovahs_witness"/>
+		<tag k="name" v="Testigos Cristianos de Jehová. Calle Ignacio Ellacuría"/>
+		<tag k="phone" v="+34 913613801"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=3104784e0cc4f010VgnVCM2000000c205a0aRCRD"/>
+	</node>
+	<node id="-27590" lat="40.4299768" lon="-3.6675138">
+		<tag k="addr:housenumber" v="16"/>
+		<tag k="addr:postcode" v="28028"/>
+		<tag k="addr:street" v="FIXME Calle Doctor Gómez Ulla"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="denomination" v="jehovahs_witness"/>
+		<tag k="name" v="Testigos Cristianos de Jehová. Calle Doctor Gómez Ulla"/>
+		<tag k="phone" v="+34 917253649"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=11c3784e0cc4f010VgnVCM2000000c205a0aRCRD"/>
+	</node>
+</osm>

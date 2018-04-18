@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.413496" minlon="-3.7353515" maxlat="40.4302236" maxlon="-3.7133789"/>
+	<node id="-26614" lat="40.4152111" lon="-3.71422">
+		<tag k="addr:housenumber" v="90"/>
+		<tag k="addr:postcode" v="28013"/>
+		<tag k="addr:street" v="FIXME Calle Mayor"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="cathedral"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="description" v="Su construcción comienza a finales del siglo XIX por el Marqués de Cubas, sobre el primer recinto amurallado del Madrid musulmán, y finaliza en el año 1993."/>
+		<tag k="name" v="Catedral Santa María la Real de la Almudena"/>
+		<tag k="phone" v="+34 915480930"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=15647b503a71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26626" lat="40.4155646" lon="-3.7211426">
+		<tag k="addr:housenumber" v="4"/>
+		<tag k="addr:postcode" v="28005"/>
+		<tag k="addr:street" v="FIXME Paseo Virgen Del Puerto"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="description" v="Descripción monumental: Construido por Pedro Ribera en 1.718. Se encuadra en un proyecto urbanístico propuesto por el propio arquitecto para toda la ribera del Manzanares. De planta octogonal con exedras, lleva cubierta de pizarra."/>
+		<tag k="name" v="Ermita Virgen del Puerto"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=fd7755004e91f010VgnVCM2000000c205a0aRCRD"/>
+	</node>
+	<node id="-26738" lat="40.4287628" lon="-3.719692">
+		<tag k="addr:housenumber" v="74"/>
+		<tag k="addr:postcode" v="28008"/>
+		<tag k="addr:street" v="FIXME Calle Ferraz"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Inmaculado Corazón de María"/>
+		<tag k="phone" v="+34 917589530"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=143eef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26840" lat="40.4293092" lon="-3.7158546">
+		<tag k="addr:housenumber" v="43"/>
+		<tag k="addr:postcode" v="28008"/>
+		<tag k="addr:street" v="FIXME Calle Princesa"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="description" v="Se realizan conciertos de órgano a lo largo del año sin día fijo predeterminad."/>
+		<tag k="name" v="Parroquia Nuestra Señora del Buen Suceso"/>
+		<tag k="phone" v="+34 915482245"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=42cdb069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27142" lat="40.4267307" lon="-3.7334042">
+		<tag k="addr:housenumber" v="9"/>
+		<tag k="addr:postcode" v="28008"/>
+		<tag k="addr:street" v="FIXME Calle Doctor Casal"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Pío."/>
+		<tag k="phone" v="+34 915472127"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=fa4eb069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27194" lat="40.4138372" lon="-3.7279485">
+		<tag k="addr:housenumber" v="32"/>
+		<tag k="addr:postcode" v="28011"/>
+		<tag k="addr:street" v="FIXME Paseo Extremadura"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa Cristina"/>
+		<tag k="phone" v="+34 914644970"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=25c0b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27264" lat="40.4152111" lon="-3.71422">
+		<tag k="addr:housenumber" v="90"/>
+		<tag k="addr:postcode" v="28013"/>
+		<tag k="addr:street" v="FIXME Calle Mayor"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="description" v="Cripta de la Catedral. Pequeña parte construida del gran proyecto neogótico de 1881, del Marqués de Cubas, para la Catedral de Madri."/>
+		<tag k="name" v="Parroquia Santa María la Real de la Almudena"/>
+		<tag k="phone" v="+34 915480930"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=0fa3b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27288" lat="40.4225775" lon="-3.7147105">
+		<tag k="addr:housenumber" v="14"/>
+		<tag k="addr:postcode" v="28008"/>
+		<tag k="addr:street" v="FIXME Plaza Espa--FIXME--Amp;Ntilde;A"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa Teresa y San José"/>
+		<tag k="phone" v="+34 915479105"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=a3b4b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+</osm>

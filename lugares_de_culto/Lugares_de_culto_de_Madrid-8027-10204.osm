@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.3800283" minlon="-3.6254882" maxlat="40.3967642" maxlon="-3.6035156"/>
+	<node id="-27072" lat="40.3807925" lon="-3.6145568">
+		<tag k="addr:housenumber" v="19"/>
+		<tag k="addr:postcode" v="28031"/>
+		<tag k="addr:street" v="FIXME Calle Monte De Montjuich"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Juan de Dios"/>
+		<tag k="phone" v="+34 913013421"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=44a3ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27130" lat="40.3802481" lon="-3.620348">
+		<tag k="addr:housenumber" v="5"/>
+		<tag k="addr:postcode" v="28031"/>
+		<tag k="addr:street" v="FIXME Calle Sierra Gorda"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Pedro Advíncula"/>
+		<tag k="phone" v="+34 913311222"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=48ddb069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27200" lat="40.3802558" lon="-3.6087206">
+		<tag k="addr:housenumber" v="17"/>
+		<tag k="addr:postcode" v="28031"/>
+		<tag k="addr:street" v="FIXME Calle Virgen De Las Vi--FIXME--Amp;Ntilde;As"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa Eugenia"/>
+		<tag k="phone" v="+34 917650362"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=2e01b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+</osm>

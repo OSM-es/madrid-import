@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.446947" minlon="-3.6035156" maxlat="40.4636663" maxlon="-3.5815429"/>
+	<node id="-26908" lat="40.4542118" lon="-3.5877227">
+		<tag k="addr:housenumber" v="4"/>
+		<tag k="addr:postcode" v="28042"/>
+		<tag k="addr:street" v="FIXME Avenida Cantabria"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Padre Nuestro"/>
+		<tag k="phone" v="+34 917652110"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=9f4613db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26978" lat="40.4491152" lon="-3.5960275">
+		<tag k="addr:housenumber" v="2"/>
+		<tag k="addr:postcode" v="28022"/>
+		<tag k="addr:street" v="FIXME Calle Tres"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Cristóbal"/>
+		<tag k="phone" v="+34 917410773"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=f9680713fb71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27186" lat="40.4578289" lon="-3.5956445">
+		<tag k="addr:housenumber" v="5"/>
+		<tag k="addr:postcode" v="28042"/>
+		<tag k="addr:street" v="FIXME Calle Rambla"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa Catalina de Alejandría"/>
+		<tag k="phone" v="+34 917426437"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=4260b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27192" lat="40.4519846" lon="-3.5845663">
+		<tag k="addr:housenumber" v="11"/>
+		<tag k="addr:postcode" v="28042"/>
+		<tag k="addr:street" v="FIXME Calle Medina De Pomar"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa Cecilia"/>
+		<tag k="phone" v="+34 917475814"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=2fa0b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27472" lat="40.4550052" lon="-3.5929071">
+		<tag k="addr:housenumber" v="46"/>
+		<tag k="addr:postcode" v="28042"/>
+		<tag k="addr:street" v="FIXME Calle Joaquin Ibarra"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="denomination" v="baptist"/>
+		<tag k="name" v="Iglesia Bautista Alameda de Osuna"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=bd9c1ea949750410VgnVCM2000000c205a0aRCRD"/>
+	</node>
+</osm>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.4970923" minlon="-3.6914062" maxlat="40.5137991" maxlon="-3.6694335"/>
+	<node id="-27418" lat="40.4971824" lon="-3.690743">
+		<tag k="addr:housenumber" v="48"/>
+		<tag k="addr:postcode" v="28034"/>
+		<tag k="addr:street" v="FIXME Calle Santa Ana Baja"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="denomination" v="jehovahs_witness"/>
+		<tag k="name" v="Testigos Cristianos de Jehová. Calle Santa Ana Baja"/>
+		<tag k="phone" v="+34 917348698"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=ed4b6dd8f677f010VgnVCM2000000c205a0aRCRD"/>
+	</node>
+</osm>

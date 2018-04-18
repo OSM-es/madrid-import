@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.4636663" minlon="-3.7133789" maxlat="40.4803814" maxlon="-3.6914062"/>
+	<node id="-26800" lat="40.4734297" lon="-3.712371">
+		<tag k="addr:housenumber" v="28"/>
+		<tag k="addr:postcode" v="28029"/>
+		<tag k="addr:street" v="FIXME Calle Chantada"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="parroquia.vega@gmail.com"/>
+		<tag k="name" v="Parroquia Nuestra Señora de la Vega"/>
+		<tag k="phone" v="+34 917383506"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=2400ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26808" lat="40.4787912" lon="-3.6988956">
+		<tag k="addr:housenumber" v="39"/>
+		<tag k="addr:postcode" v="28029"/>
+		<tag k="addr:street" v="FIXME Calle Villa De Marin"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="parroquialsfts@archimadrid.es"/>
+		<tag k="name" v="Parroquia Nuestra Señora de las Fuentes"/>
+		<tag k="phone" v="+34 913147361"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=041513db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26814" lat="40.4638829" lon="-3.7001328">
+		<tag k="addr:housenumber" v="34"/>
+		<tag k="addr:postcode" v="28039"/>
+		<tag k="addr:street" v="FIXME Calle Azucenas"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="lasvictorias@archimadrid.es"/>
+		<tag k="name" v="Parroquia Nuestra Señora de las Victorias"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=4920ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26828" lat="40.47604" lon="-3.7127407">
+		<tag k="addr:housenumber" v="49"/>
+		<tag k="addr:postcode" v="28029"/>
+		<tag k="addr:street" v="FIXME Calle Ponferrada"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="pdelujan@telefonica.net / lujan@archimadrid.es"/>
+		<tag k="name" v="Parroquia Nuestra Señora de Luján"/>
+		<tag k="phone" v="+34 913860478"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=6e40ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26854" lat="40.4666886" lon="-3.6919994">
+		<tag k="addr:housenumber" v="17"/>
+		<tag k="addr:postcode" v="28029"/>
+		<tag k="addr:street" v="FIXME Calle Conde Del Serrallo"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="jacenacu@yahoo.es"/>
+		<tag k="name" v="Parroquia Nuestra Señora del Espino"/>
+		<tag k="phone" v="+34 917331724"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=e71613db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26886" lat="40.4759508" lon="-3.7067231">
+		<tag k="addr:housenumber" v="49"/>
+		<tag k="addr:postcode" v="28029"/>
+		<tag k="addr:street" v="FIXME Avenida El Ferrol"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="carmelitas-oc.casma@confer.es / flordelcarmelo@archimadrid.es"/>
+		<tag k="name" v="Parroquia Nuestra Señora Flor del Carmelo"/>
+		<tag k="phone" v="+34 917391056"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=0d3613db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26890" lat="40.4639051" lon="-3.7112559">
+		<tag k="addr:housenumber" v="15"/>
+		<tag k="addr:postcode" v="28039"/>
+		<tag k="addr:street" v="FIXME Calle Azuaga"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Nuestra Señora de Altagracia"/>
+		<tag k="phone" v="+34 914509421"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=0be313db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27014" lat="40.470916" lon="-3.6916417">
+		<tag k="addr:housenumber" v="34"/>
+		<tag k="addr:postcode" v="28029"/>
+		<tag k="addr:street" v="FIXME Calle Martires De La Ventilla"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Francisco Javier y San Luis Gonzaga"/>
+		<tag k="phone" v="+34 917336796"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=18b90713fb71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27036" lat="40.4685658" lon="-3.6989311">
+		<tag k="addr:housenumber" v="79"/>
+		<tag k="addr:postcode" v="28029"/>
+		<tag k="addr:street" v="FIXME Calle Pinos Alta"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Ignacio de Loyola"/>
+		<tag k="phone" v="+34 913153302"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=dd82ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27100" lat="40.4716487" lon="-3.6941383">
+		<tag k="addr:housenumber" v="103"/>
+		<tag k="addr:postcode" v="28029"/>
+		<tag k="addr:street" v="FIXME Calle Martires De La Ventilla"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Luis Gonzaga"/>
+		<tag k="phone" v="+34 913152073"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=c834ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27260" lat="40.478227" lon="-3.7086936">
+		<tag k="addr:housenumber" v="115"/>
+		<tag k="addr:postcode" v="28029"/>
+		<tag k="addr:street" v="FIXME Avenida Monforte De Lemos"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa María del Val"/>
+		<tag k="phone" v="+34 917309461"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=0863b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27496" lat="40.4697872" lon="-3.7025298">
+		<tag k="addr:housenumber" v="23"/>
+		<tag k="addr:postcode" v="28029"/>
+		<tag k="addr:street" v="FIXME Calle Arroyo"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="denomination" v="jehovahs_witness"/>
+		<tag k="name" v="Testigos Cristianos de Jehová. Calle Arroyo"/>
+		<tag k="phone" v="+34 913140296"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=a823784e0cc4f010VgnVCM2000000c205a0aRCRD"/>
+	</node>
+	<node id="-27512" lat="40.4785401" lon="-3.7031637">
+		<tag k="addr:housenumber" v="44"/>
+		<tag k="addr:postcode" v="28029"/>
+		<tag k="addr:street" v="FIXME Calle Ginzo De Limia"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="denomination" v="baptist"/>
+		<tag k="name" v="Iglesia Bautista Barrio del Pilar"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=d7521ea949750410VgnVCM2000000c205a0aRCRD"/>
+	</node>
+	<node id="-27538" lat="40.4780963" lon="-3.7050349">
+		<tag k="addr:housenumber" v="10"/>
+		<tag k="addr:postcode" v="28029"/>
+		<tag k="addr:street" v="FIXME Plaza Mondariz"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="name" v="Iglesia Cristiana Shalom Adonai"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=98296bbcdbc50410VgnVCM1000000b205a0aRCRD"/>
+	</node>
+</osm>

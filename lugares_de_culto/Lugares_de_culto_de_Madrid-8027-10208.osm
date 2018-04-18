@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.446947" minlon="-3.6254882" maxlat="40.4636663" maxlon="-3.6035156"/>
+	<node id="-26802" lat="40.4509161" lon="-3.6184972">
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:postcode" v="28042"/>
+		<tag k="addr:street" v="FIXME Calle Espirea"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="p.americas@hotmail.com / nuestrasradelasamericas@archimadrid.es"/>
+		<tag k="name" v="Parroquia Nuestra Señora de las Américas"/>
+		<tag k="phone" v="+34 917412898"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=5cd413db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27174" lat="40.4471551" lon="-3.6091115">
+		<tag k="addr:housenumber" v="6"/>
+		<tag k="addr:postcode" v="28022"/>
+		<tag k="addr:street" v="FIXME Calle San Faustino"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa Adela"/>
+		<tag k="phone" v="+34 917421921"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=7bbfb069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27542" lat="40.4474163" lon="-3.6142317">
+		<tag k="addr:housenumber" v="32"/>
+		<tag k="addr:postcode" v="28022"/>
+		<tag k="addr:street" v="FIXME Calle Talia"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="denomination" v="evangelical"/>
+		<tag k="name" v="Iglesia Evangélica Cristo Vive"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=2224216f16350410VgnVCM2000000c205a0aRCRD"/>
+	</node>
+</osm>

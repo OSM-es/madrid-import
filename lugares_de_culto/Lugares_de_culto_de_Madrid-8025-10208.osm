@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.446947" minlon="-3.6694335" maxlat="40.4636663" maxlon="-3.6474609"/>
+	<node id="-26688" lat="40.4516818" lon="-3.668672">
+		<tag k="addr:housenumber" v="17"/>
+		<tag k="addr:postcode" v="28002"/>
+		<tag k="addr:street" v="FIXME Calle Gabriel Y Galan"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Asunción de Nuestra Señora. Calle Gabriel y Galán"/>
+		<tag k="phone" v="+34 914151589"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=4c0313db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26782" lat="40.4570545" lon="-3.6680884">
+		<tag k="addr:housenumber" v="4"/>
+		<tag k="addr:postcode" v="28016"/>
+		<tag k="addr:street" v="FIXME Calle Fernan Nuñez"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="parroquianuestraseñoradelaluz@gmail.com / laluz@archimadrid.es"/>
+		<tag k="name" v="Parroquia Nuestra Señora de la Luz"/>
+		<tag k="phone" v="+34 913504574"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=af6fef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26882" lat="40.462784" lon="-3.6507593">
+		<tag k="addr:housenumber" v="40"/>
+		<tag k="addr:postcode" v="28043"/>
+		<tag k="addr:street" v="FIXME Carretera Canillas"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="parroquiatransito@gmail.com / parroquiatransito@archimadrid.es"/>
+		<tag k="name" v="Parroquia Nuestra Señora del Tránsito"/>
+		<tag k="phone" v="+34 913002930"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=d461ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27064" lat="40.4527813" lon="-3.6591893">
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:postcode" v="28043"/>
+		<tag k="addr:street" v="FIXME Calle Faustina Pe--FIXME--Amp;Ntilde;Alver"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Juan Bautista"/>
+		<tag k="phone" v="+34 914135171"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=9c63ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27226" lat="40.4574963" lon="-3.6570299">
+		<tag k="addr:housenumber" v="2"/>
+		<tag k="addr:postcode" v="28043"/>
+		<tag k="addr:street" v="FIXME Calle Belisana"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa María de Cervellón"/>
+		<tag k="phone" v="+34 913002902"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=01e1b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+</osm>

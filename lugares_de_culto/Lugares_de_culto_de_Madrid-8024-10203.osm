@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.3632883" minlon="-3.6914062" maxlat="40.3800283" maxlon="-3.6694335"/>
+	<node id="-26618" lat="40.3786004" lon="-3.6733208">
+		<tag k="addr:housenumber" v="112"/>
+		<tag k="addr:postcode" v="28053"/>
+		<tag k="addr:street" v="FIXME Calle Santa Rafaela Maria Del Sagrado Corazon"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="description" v="ENSEÑANZA: Educación Infantil - Primaria - ESO Comedo."/>
+		<tag k="fax" v="+34 917852638"/>
+		<tag k="name" v="Colegio Santa Rafaela María"/>
+		<tag k="phone" v="+34 917858014"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=38baf3216571c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26750" lat="40.3763938" lon="-3.6900263">
+		<tag k="addr:housenumber" v="92"/>
+		<tag k="addr:postcode" v="28041"/>
+		<tag k="addr:street" v="FIXME Camino Perales"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Madre del Buen Pastor"/>
+		<tag k="phone" v="+34 915002466"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=e09eef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27202" lat="40.3796743" lon="-3.6699033">
+		<tag k="addr:housenumber" v="5"/>
+		<tag k="addr:postcode" v="28053"/>
+		<tag k="addr:street" v="FIXME Calle Pedroches"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa Eulalia de Mérida"/>
+		<tag k="phone" v="+34 917858383"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=9621b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+</osm>

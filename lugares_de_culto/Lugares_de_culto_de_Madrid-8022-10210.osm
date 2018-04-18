@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.4803814" minlon="-3.7353515" maxlat="40.4970923" maxlon="-3.7133789"/>
+	<node id="-26988" lat="40.480623" lon="-3.7204107">
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:postcode" v="28035"/>
+		<tag k="addr:street" v="FIXME Plaza Doctor Barraquer"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Eloy"/>
+		<tag k="phone" v="+34 917384623"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=34b80713fb71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27076" lat="40.495618" lon="-3.7154024">
+		<tag k="addr:housenumber" v="75"/>
+		<tag k="addr:postcode" v="28034"/>
+		<tag k="addr:street" v="FIXME Calle Moralzarzal"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Juan de Mirasierra"/>
+		<tag k="phone" v="+34 917350285"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=193a444a2951c010VgnVCM2000000c205a0aRCRD"/>
+	</node>
+	<node id="-27172" lat="40.482222" lon="-3.7269051">
+		<tag k="addr:housenumber" v="101"/>
+		<tag k="addr:postcode" v="28035"/>
+		<tag k="addr:street" v="FIXME Calle Ramon Gomez De La Serna"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Víctor"/>
+		<tag k="phone" v="+34 913736764"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=75afb069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27284" lat="40.4894894" lon="-3.7201515">
+		<tag k="addr:housenumber" v="22"/>
+		<tag k="addr:postcode" v="28035"/>
+		<tag k="addr:street" v="FIXME Calle Senda Del Infante"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa Teresa Benedicta de la Cruz"/>
+		<tag k="phone" v="+34 913763479"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=b3cf6fdb2541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27468" lat="40.4812546" lon="-3.7288886">
+		<tag k="addr:housenumber" v="16"/>
+		<tag k="addr:postcode" v="28035"/>
+		<tag k="addr:street" v="FIXME Calle Vicente Baena"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="denomination" v="evangelical"/>
+		<tag k="name" v="Iglesia Evangélica Pentecostal Salem"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=6fb1e44317350410VgnVCM2000000c205a0aRCRD"/>
+	</node>
+</osm>

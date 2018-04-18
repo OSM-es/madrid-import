@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.413496" minlon="-3.6254882" maxlat="40.4302236" maxlon="-3.6035156"/>
+	<node id="-26812" lat="40.4247413" lon="-3.6038284">
+		<tag k="addr:housenumber" v="44"/>
+		<tag k="addr:postcode" v="28022"/>
+		<tag k="addr:street" v="FIXME Calle Suecia"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="parroquia_rosas@adsis.org / parroquiarosas@archimadrid.es"/>
+		<tag k="name" v="Parroquia Nuestra Señora de las Rosas"/>
+		<tag k="phone" v="+34 917600847"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=51858ed67151c010VgnVCM2000000c205a0aRCRD"/>
+	</node>
+	<node id="-26868" lat="40.4222551" lon="-3.6157356">
+		<tag k="addr:housenumber" v="8"/>
+		<tag k="addr:postcode" v="28037"/>
+		<tag k="addr:street" v="FIXME Calle Argenta"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="parroquiarecuerdo@archimadrid.es"/>
+		<tag k="name" v="Parroquia Nuestra Señora del Recuerdo"/>
+		<tag k="phone" v="+34 913135061"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=75f0ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26966" lat="40.4301721" lon="-3.6177884">
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:postcode" v="28037"/>
+		<tag k="addr:street" v="FIXME Calle Alconera"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Blas"/>
+		<tag k="phone" v="+34 913062901"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=40b713db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27052" lat="40.425594" lon="-3.6214245">
+		<tag k="addr:housenumber" v="24"/>
+		<tag k="addr:postcode" v="28037"/>
+		<tag k="addr:street" v="FIXME Calle Amposta"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Joaquín"/>
+		<tag k="phone" v="+34 913130145"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=5223ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27370" lat="40.426552" lon="-3.6175077">
+		<tag k="addr:housenumber" v="2"/>
+		<tag k="addr:postcode" v="28037"/>
+		<tag k="addr:street" v="FIXME Calle Peones"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Virgen del Mar"/>
+		<tag k="phone" v="+34 913069753"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=81f73d232e91f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27432" lat="40.424231" lon="-3.6100952">
+		<tag k="addr:housenumber" v="11"/>
+		<tag k="addr:postcode" v="28022"/>
+		<tag k="addr:street" v="FIXME Calle Rusia"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="denomination" v="seventh_day_adventist"/>
+		<tag k="description" v="Habla rumana"/>
+		<tag k="name" v="Iglesia Cristiana Adventista del Séptimo Día. Madrid Emaús"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=d6d9493662e92110VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27478" lat="40.4247373" lon="-3.6080368">
+		<tag k="addr:housenumber" v="2"/>
+		<tag k="addr:postcode" v="28022"/>
+		<tag k="addr:street" v="FIXME Calle Austria"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="denomination" v="seventh_day_adventist"/>
+		<tag k="name" v="Iglesia Cristiana Adventista del Séptimo Día. Madrid Resurrección"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=23e70bf21677f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27508" lat="40.4248607" lon="-3.6085566">
+		<tag k="addr:housenumber" v="20"/>
+		<tag k="addr:postcode" v="28022"/>
+		<tag k="addr:street" v="FIXME Calle Butron"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="name" v="Iglesia Resurrección IEE"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=306150adce160410VgnVCM2000000c205a0aRCRD"/>
+	</node>
+	<node id="-27578" lat="40.424231" lon="-3.6100952">
+		<tag k="addr:housenumber" v="11"/>
+		<tag k="addr:postcode" v="28022"/>
+		<tag k="addr:street" v="FIXME Calle Rusia"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="denomination" v="seventh_day_adventist"/>
+		<tag k="description" v="Habla rumana"/>
+		<tag k="email" v="661 957 970"/>
+		<tag k="name" v="Iglesia Cristiana Adventista del Séptimo Día. Madrid Eben-Ezer"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=925691f81c421510VgnVCM2000000c205a0aRCRD"/>
+	</node>
+	<node id="-27582" lat="40.4248607" lon="-3.6085566">
+		<tag k="addr:housenumber" v="32"/>
+		<tag k="addr:postcode" v="28022"/>
+		<tag k="addr:street" v="FIXME Calle Circe"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="name" v="Iglesia Cristiana Verbo"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=003ff181df160410VgnVCM2000000c205a0aRCRD"/>
+	</node>
+</osm>

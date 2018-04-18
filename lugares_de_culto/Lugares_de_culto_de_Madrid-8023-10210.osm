@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.4803814" minlon="-3.7133789" maxlat="40.4970923" maxlon="-3.6914062"/>
+	<node id="-26810" lat="40.4914024" lon="-3.7050444">
+		<tag k="addr:housenumber" v="47"/>
+		<tag k="addr:postcode" v="28034"/>
+		<tag k="addr:street" v="FIXME Calle Nuria"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="parroquianieves@hotmail.com / parroquianieves@archimadrid.es"/>
+		<tag k="name" v="Parroquia Nuestra Señora de las Nieves"/>
+		<tag k="phone" v="+34 917345210"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=b610ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27234" lat="40.4848651" lon="-3.7045276">
+		<tag k="addr:housenumber" v="39"/>
+		<tag k="addr:postcode" v="28034"/>
+		<tag k="addr:street" v="FIXME Calle Fermin Caballero"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa María de la Caridad"/>
+		<tag k="phone" v="+34 917306851"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=8132b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27236" lat="40.4830803" lon="-3.7076474">
+		<tag k="addr:housenumber" v="53"/>
+		<tag k="addr:postcode" v="28034"/>
+		<tag k="addr:street" v="FIXME Calle Fermin Caballero"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa María de la Esperanza"/>
+		<tag k="phone" v="+34 917392222"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=9942b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27372" lat="40.4918638" lon="-3.6943111">
+		<tag k="addr:housenumber" v="60"/>
+		<tag k="addr:postcode" v="28034"/>
+		<tag k="addr:street" v="FIXME Calle Manresa"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="pvdelrefugio@hotmail.com"/>
+		<tag k="name" v="Parroquia Virgen del Refugio y Santa Lucía"/>
+		<tag k="phone" v="+34 917342045"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=67088c7c0f91f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+</osm>

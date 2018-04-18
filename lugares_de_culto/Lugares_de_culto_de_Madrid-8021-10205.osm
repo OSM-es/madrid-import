@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.3967642" minlon="-3.7573242" maxlat="40.413496" maxlon="-3.7353515"/>
+	<node id="-26710" lat="40.4046554" lon="-3.7479662">
+		<tag k="addr:housenumber" v="56"/>
+		<tag k="addr:postcode" v="28011"/>
+		<tag k="addr:street" v="FIXME Calle Cebreros"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Cristo Resucitado"/>
+		<tag k="phone" v="+34 914630716"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=7fa213db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26718" lat="40.398262" lon="-3.7447021">
+		<tag k="addr:housenumber" v="11"/>
+		<tag k="addr:postcode" v="28047"/>
+		<tag k="addr:street" v="FIXME Calle Cuart De Poblet"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Crucifixión del Señor"/>
+		<tag k="phone" v="+34 914654789"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=b9f213db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26870" lat="40.4057386" lon="-3.7517966">
+		<tag k="addr:housenumber" v="3"/>
+		<tag k="addr:postcode" v="28011"/>
+		<tag k="addr:street" v="FIXME Plaza Franciscanos"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="rosario@pazybien.org / rosario@archimadrid.es"/>
+		<tag k="name" v="Parroquia Nuestra Señora del Rosario"/>
+		<tag k="phone" v="+34 914647630"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=9a11ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27090" lat="40.4072865" lon="-3.7408888">
+		<tag k="addr:housenumber" v="28"/>
+		<tag k="addr:postcode" v="28011"/>
+		<tag k="addr:street" v="FIXME Calle Sagrados Corazones"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Leopoldo"/>
+		<tag k="phone" v="+34 914633796"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=a314ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27178" lat="40.4004039" lon="-3.7478367">
+		<tag k="addr:housenumber" v="130"/>
+		<tag k="addr:postcode" v="28047"/>
+		<tag k="addr:street" v="FIXME Calle Concejal Francisco Jose Jimenez Martin"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa Beatriz"/>
+		<tag k="phone" v="+34 914647066"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=9c10b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27502" lat="40.4079609" lon="-3.7424991">
+		<tag k="addr:housenumber" v="8"/>
+		<tag k="addr:postcode" v="28011"/>
+		<tag k="addr:street" v="FIXME Calle Hilario Sangrador"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="denomination" v="jehovahs_witness"/>
+		<tag k="name" v="Testigos Cristianos de Jehová. Calle Hilario Sangrador"/>
+		<tag k="phone" v="+34 914794301"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=1673784e0cc4f010VgnVCM2000000c205a0aRCRD"/>
+	</node>
+</osm>

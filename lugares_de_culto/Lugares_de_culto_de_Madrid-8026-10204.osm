@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.3800283" minlon="-3.6474609" maxlat="40.3967642" maxlon="-3.6254882"/>
+	<node id="-26758" lat="40.3867227" lon="-3.6407073">
+		<tag k="addr:housenumber" v="25"/>
+		<tag k="addr:postcode" v="28018"/>
+		<tag k="addr:street" v="FIXME Avenida Rafael Alberti"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia María Mediadora"/>
+		<tag k="phone" v="+34 913034496"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=bdeeef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26818" lat="40.3884155" lon="-3.6376247">
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:postcode" v="28038"/>
+		<tag k="addr:street" v="FIXME Calle Leon Felipe"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="email" v="nsalamos@telefonica.net"/>
+		<tag k="name" v="Parroquia Nuestra Señora de los Álamos"/>
+		<tag k="phone" v="+34 913801819"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=293513db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26938" lat="40.3875956" lon="-3.6441323">
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:postcode" v="28018"/>
+		<tag k="addr:street" v="FIXME Calle Riojanos"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Ambrosio"/>
+		<tag k="phone" v="+34 913033024"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=6ca613db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26964" lat="40.3925776" lon="-3.6457469">
+		<tag k="addr:housenumber" v="9"/>
+		<tag k="addr:postcode" v="28038"/>
+		<tag k="addr:street" v="FIXME Calle San Feliu De Guixols"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Bernabé"/>
+		<tag k="phone" v="+34 913037484"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=bd9713db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27212" lat="40.3905979" lon="-3.6388589">
+		<tag k="addr:housenumber" v="7"/>
+		<tag k="addr:postcode" v="28038"/>
+		<tag k="addr:street" v="FIXME Calle Andaluces"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="description" v="Hogar del Compañer."/>
+		<tag k="name" v="Parroquia Santa Irene"/>
+		<tag k="phone" v="+34 917771719"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=0f91b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27246" lat="40.3964392" lon="-3.6349548">
+		<tag k="addr:housenumber" v="334"/>
+		<tag k="addr:postcode" v="28030"/>
+		<tag k="addr:street" v="FIXME Calle Encomienda De Palacios"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa María del Camino"/>
+		<tag k="phone" v="+34 917721569"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=bbb2b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27454" lat="40.3896177" lon="-3.6368937">
+		<tag k="addr:housenumber" v="30"/>
+		<tag k="addr:postcode" v="28038"/>
+		<tag k="addr:street" v="FIXME Calle Andaluces"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="denomination" v="jehovahs_witness"/>
+		<tag k="name" v="Testigos Cristianos de Jehová. Calle Andaluces"/>
+		<tag k="phone" v="+34 917786263"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=2903784e0cc4f010VgnVCM2000000c205a0aRCRD"/>
+	</node>
+	<node id="-27600" lat="40.38604" lon="-3.6403474">
+		<tag k="addr:housenumber" v="7 Y."/>
+		<tag k="addr:postcode" v="28018"/>
+		<tag k="addr:street" v="FIXME Calle Alora"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="name" v="Asamblea Cristiana de Madrid"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=03758105e2260410VgnVCM2000000c205a0aRCRD"/>
+	</node>
+</osm>

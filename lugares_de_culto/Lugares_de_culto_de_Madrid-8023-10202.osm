@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.3465441" minlon="-3.7133789" maxlat="40.3632883" maxlon="-3.6914062"/>
+	<node id="-26940" lat="40.3469048" lon="-3.7053155">
+		<tag k="addr:housenumber" v="15"/>
+		<tag k="addr:postcode" v="28021"/>
+		<tag k="addr:street" v="FIXME Calle Oxigeno"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Andrés Apóstol. Calle Oxígeno"/>
+		<tag k="phone" v="+34 917971442"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=feb613db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26974" lat="40.3528381" lon="-3.6955092">
+		<tag k="addr:housenumber" v="12"/>
+		<tag k="addr:postcode" v="28041"/>
+		<tag k="addr:street" v="FIXME Calle Anoeta"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Camilo de Lelis"/>
+		<tag k="phone" v="+34 917960271"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=2d080713fb71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27018" lat="40.3506964" lon="-3.7084637">
+		<tag k="addr:housenumber" v="18"/>
+		<tag k="addr:postcode" v="28021"/>
+		<tag k="addr:street" v="FIXME Calle Puebla De Sanabria"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Félix"/>
+		<tag k="phone" v="+34 917962792"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=93290713fb71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27108" lat="40.3579419" lon="-3.6962447">
+		<tag k="addr:housenumber" v="16"/>
+		<tag k="addr:postcode" v="28041"/>
+		<tag k="addr:street" v="FIXME Avenida La Verbena De La Paloma"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Mateo"/>
+		<tag k="phone" v="+34 913171935"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=ed54ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27138" lat="40.3560827" lon="-3.6997702">
+		<tag k="addr:housenumber" v="27"/>
+		<tag k="addr:postcode" v="28041"/>
+		<tag k="addr:street" v="FIXME Calle Do--FIXME--Amp;Ntilde;A Francisquita"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Pedro Nolasco"/>
+		<tag k="phone" v="+34 913179572"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=c91eb069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27180" lat="40.350247" lon="-3.6964246">
+		<tag k="addr:housenumber" v="9"/>
+		<tag k="addr:postcode" v="28021"/>
+		<tag k="addr:street" v="FIXME Calle Alcocer"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa Bibiana"/>
+		<tag k="phone" v="+34 917965881"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=4630b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+</osm>

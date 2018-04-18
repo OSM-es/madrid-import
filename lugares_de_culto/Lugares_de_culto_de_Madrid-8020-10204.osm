@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.3800283" minlon="-3.7792968" maxlat="40.3967642" maxlon="-3.7573242"/>
+	<node id="-26744" lat="40.3881001" lon="-3.7612498">
+		<tag k="addr:housenumber" v="129"/>
+		<tag k="addr:postcode" v="28024"/>
+		<tag k="addr:street" v="FIXME Calle Maqueda"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Jesús y María"/>
+		<tag k="phone" v="+34 917177973"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=5e7eef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-26936" lat="40.3947597" lon="-3.7664151">
+		<tag k="addr:housenumber" v="109"/>
+		<tag k="addr:postcode" v="28024"/>
+		<tag k="addr:street" v="FIXME Calle Escalona"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Alfonso María de Ligorio"/>
+		<tag k="phone" v="+34 917111935"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=d99613db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27024" lat="40.3921572" lon="-3.7635224">
+		<tag k="addr:housenumber" v="45"/>
+		<tag k="addr:postcode" v="28024"/>
+		<tag k="addr:street" v="FIXME Calle Maqueda"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Gerardo María Mayela"/>
+		<tag k="phone" v="+34 917182497"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=2652ef4d7f71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27034" lat="40.3865471" lon="-3.7658625">
+		<tag k="addr:housenumber" v="7"/>
+		<tag k="addr:postcode" v="28044"/>
+		<tag k="addr:street" v="FIXME Calle Luis Chamizo"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Hilario de Poitiers"/>
+		<tag k="phone" v="+34 917650821"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=62d48aa6bd91f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27464" lat="40.3951784" lon="-3.7603162">
+		<tag k="addr:housenumber" v="64"/>
+		<tag k="addr:postcode" v="28024"/>
+		<tag k="addr:street" v="FIXME Calle Tembleque"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="denomination" v="jehovahs_witness"/>
+		<tag k="name" v="Testigos Cristianos de Jehová. Calle Tembleque"/>
+		<tag k="phone" v="+34 915188149"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=0d24972577619210VgnVCM2000000c205a0aRCRD"/>
+	</node>
+</osm>

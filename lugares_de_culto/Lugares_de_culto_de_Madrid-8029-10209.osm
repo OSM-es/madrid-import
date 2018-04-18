@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.4636663" minlon="-3.5815429" maxlat="40.4803814" maxlon="-3.5595703"/>
+	<node id="-27134" lat="40.4746566" lon="-3.5781211">
+		<tag k="addr:housenumber" v="2"/>
+		<tag k="addr:postcode" v="28042"/>
+		<tag k="addr:street" v="FIXME Calle Orion"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Pedro Apóstol. Calle Orión"/>
+		<tag k="phone" v="+34 913056204"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=4eedb069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+</osm>

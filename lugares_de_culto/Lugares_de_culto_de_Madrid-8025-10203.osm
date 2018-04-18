@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.3632883" minlon="-3.6694335" maxlat="40.3800283" maxlon="-3.6474609"/>
+	<node id="-26700" lat="40.3774545" lon="-3.6563813">
+		<tag k="addr:housenumber" v="22"/>
+		<tag k="addr:postcode" v="28018"/>
+		<tag k="addr:street" v="FIXME Avenida Parque De Palomeras Bajas"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Buen Pastor"/>
+		<tag k="phone" v="+34 917855343"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=356213db5b71c010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27148" lat="40.3740162" lon="-3.6574081">
+		<tag k="addr:housenumber" v="35"/>
+		<tag k="addr:postcode" v="28053"/>
+		<tag k="addr:street" v="FIXME Calle Esteban Carros"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia San Raimundo de Peñafort"/>
+		<tag k="phone" v="+34 917857017"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=997eb069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27256" lat="40.3745337" lon="-3.669287">
+		<tag k="addr:housenumber" v="13"/>
+		<tag k="addr:postcode" v="28053"/>
+		<tag k="addr:street" v="FIXME Calle Montanchez"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="roman_catholic"/>
+		<tag k="name" v="Parroquia Santa María del Pozo y Santa Marta"/>
+		<tag k="phone" v="+34 917861189"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=5733b069a541f010VgnVCM1000000b205a0aRCRD"/>
+	</node>
+	<node id="-27414" lat="40.3794707" lon="-3.6630215">
+		<tag k="addr:housenumber" v="3"/>
+		<tag k="addr:postcode" v="28018"/>
+		<tag k="addr:street" v="FIXME Calle Felipe De Diego"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="denomination" v="evangelical"/>
+		<tag k="name" v="Iglesia Evangélica Casa de Oración"/>
+		<tag k="religion" v="christian"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2013-05-01"/>
+		<tag k="url" v="http://www.madrid.es/vgn-ext-templating/v/index.jsp?vgnextchannel=9e4c43db40317010VgnVCM100000dc0ca8c0RCRD&#38;vgnextoid=75ab8fd21ad50410VgnVCM2000000c205a0aRCRD"/>
+	</node>
+</osm>
