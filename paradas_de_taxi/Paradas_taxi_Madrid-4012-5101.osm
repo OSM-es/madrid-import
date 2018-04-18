@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.3465441" minlon="-3.6914062" maxlat="40.3800283" maxlon="-3.6474609"/>
+	<node id="-23006" lat="40.3683343" lon="-3.6861043">
+		<tag k="addr:street" v="FIXME PERALES, CAMINO, DE"/>
+		<tag k="capacity" v="9"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23030" lat="40.3704942" lon="-3.6806544">
+		<tag k="addr:street" v="FIXME EMBAJADORES, CALLE, DE"/>
+		<tag k="capacity" v="8"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23234" lat="40.3799474" lon="-3.670879">
+		<tag k="addr:street" v="FIXME MANCHA, CALLE, DE LA"/>
+		<tag k="capacity" v="8"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+</osm>

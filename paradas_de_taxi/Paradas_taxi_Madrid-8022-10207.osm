@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.4302236" minlon="-3.7353515" maxlat="40.446947" maxlon="-3.7133789"/>
+	<node id="-22833" lat="40.4440911" lon="-3.7140616">
+		<tag k="addr:street" v="FIXME GENERAL RODRIGO, CALLE, DEL"/>
+		<tag k="capacity" v="8"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22834" lat="40.4456888" lon="-3.7160528">
+		<tag k="addr:street" v="FIXME LOMA, CALLE, DE LA"/>
+		<tag k="capacity" v="1"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22838" lat="40.438955" lon="-3.7134069">
+		<tag k="addr:street" v="FIXME CEA BERMUDEZ, CALLE, DE"/>
+		<tag k="capacity" v="2"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22864" lat="40.4328295" lon="-3.7333686">
+		<tag k="addr:street" v="FIXME VALLADOLID, AVENIDA, DE"/>
+		<tag k="capacity" v="3"/>
+		<tag k="opening_hours" v="Mo-Fr 08:00-14:00; PH off"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22965" lat="40.4308588" lon="-3.7165647">
+		<tag k="addr:street" v="FIXME PRINCESA, CALLE, DE LA"/>
+		<tag k="capacity" v="6"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22967" lat="40.4393218" lon="-3.7192998">
+		<tag k="addr:street" v="FIXME PROFESOR MARTIN LAGOS, CALLE, DEL"/>
+		<tag k="capacity" v="17"/>
+		<tag k="opening_hours" v="Mo-Fr 08:00-14:00; PH off"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23049" lat="40.4396726" lon="-3.7185784">
+		<tag k="addr:street" v="FIXME DOCTOR JIMENEZ DIAZ, CALLE, DEL"/>
+		<tag k="capacity" v="7"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23143" lat="40.4456499" lon="-3.7146477">
+		<tag k="addr:street" v="FIXME REINA VICTORIA, AVENIDA, DE LA"/>
+		<tag k="capacity" v="4"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23171" lat="40.4332945" lon="-3.7337706">
+		<tag k="addr:street" v="FIXME VALLADOLID, AVENIDA, DE"/>
+		<tag k="capacity" v="3"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23175" lat="40.4430122" lon="-3.7227013">
+		<tag k="addr:street" v="FIXME DOCTOR SEVERO OCHOA, CALLE, DEL"/>
+		<tag k="capacity" v="6"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23194" lat="40.4396399" lon="-3.7182908">
+		<tag k="addr:street" v="FIXME DOCTOR JIMENEZ DIAZ, CALLE, DEL"/>
+		<tag k="capacity" v="5"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23195" lat="40.4347094" lon="-3.7198909">
+		<tag k="addr:street" v="FIXME MORET, PASEO, DE"/>
+		<tag k="capacity" v="10"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23230" lat="40.4397269" lon="-3.7192609">
+		<tag k="addr:street" v="FIXME PROFESOR MARTIN LAGOS, CALLE, DEL"/>
+		<tag k="capacity" v="14"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+</osm>

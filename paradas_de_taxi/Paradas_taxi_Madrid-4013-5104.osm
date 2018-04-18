@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.446947" minlon="-3.6474609" maxlat="40.4803814" maxlon="-3.6035156"/>
+	<node id="-22924" lat="40.4631023" lon="-3.635488">
+		<tag k="addr:street" v="FIXME MACHUPICHU, AVENIDA, DE"/>
+		<tag k="capacity" v="5"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22949" lat="40.4744533" lon="-3.6328221">
+		<tag k="addr:street" v="FIXME VIA DE LOS POBLADOS, CALLE"/>
+		<tag k="capacity" v="8"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22950" lat="40.462101" lon="-3.6206691">
+		<tag k="addr:street" v="FIXME RIBERA DEL LOIRA, CALLE, DE LA"/>
+		<tag k="capacity" v="15"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22951" lat="40.4601984" lon="-3.6176628">
+		<tag k="addr:street" v="FIXME RIBERA DEL LOIRA, CALLE, DE LA"/>
+		<tag k="capacity" v="12"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22952" lat="40.465237" lon="-3.6236895">
+		<tag k="addr:street" v="FIXME RIBERA DEL LOIRA, CALLE, DE LA"/>
+		<tag k="capacity" v="8"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22966" lat="40.472903" lon="-3.6306382">
+		<tag k="addr:street" v="FIXME TOMAS REDONDO, CALLE, DE"/>
+		<tag k="capacity" v="3"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23017" lat="40.4483772" lon="-3.6094164">
+		<tag k="addr:street" v="FIXME ALCALA, CALLE, DE"/>
+		<tag k="capacity" v="4"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23022" lat="40.4565752" lon="-3.6183835">
+		<tag k="addr:street" v="FIXME ANDES, AVENIDA, DE LOS"/>
+		<tag k="capacity" v="6"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23026" lat="40.448879" lon="-3.6414213">
+		<tag k="addr:street" v="FIXME JOSEFA VALCARCEL, CALLE, DE"/>
+		<tag k="capacity" v="3"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23027" lat="40.4634523" lon="-3.6167434">
+		<tag k="addr:street" v="FIXME PARTENON, AVENIDA, DEL"/>
+		<tag k="capacity" v="6"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23034" lat="40.4477207" lon="-3.6367762">
+		<tag k="addr:street" v="FIXME JUAN RIZI, CALLE, DE"/>
+		<tag k="capacity" v="3"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23057" lat="40.4571437" lon="-3.6451747">
+		<tag k="addr:street" v="FIXME MOSCATELAR, CALLE, DE"/>
+		<tag k="capacity" v="6"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23069" lat="40.4528463" lon="-3.6133832">
+		<tag k="addr:street" v="FIXME LUIS DE LA MATA, CALLE, DE"/>
+		<tag k="capacity" v="3"/>
+		<tag k="opening_hours" v="Mo-Fr 06:00-21:00; PH off"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23071" lat="40.4648738" lon="-3.6317815">
+		<tag k="addr:street" v="FIXME MOTA DEL CUERVO, CALLE, DE"/>
+		<tag k="capacity" v="3"/>
+		<tag k="opening_hours" v="Mo-Fr 06:00-21:00; PH off"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23091" lat="40.4477838" lon="-3.6292708">
+		<tag k="addr:street" v="FIXME JUAN IGNACIO LUCA DE TENA, CALLE, DE"/>
+		<tag k="capacity" v="7"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23092" lat="40.4477172" lon="-3.6285058">
+		<tag k="addr:street" v="FIXME JUAN IGNACIO LUCA DE TENA, CALLE, DE"/>
+		<tag k="capacity" v="4"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23114" lat="40.4614396" lon="-3.6154947">
+		<tag k="addr:street" v="FIXME CAPITAL DE ESPAÑA MADRID, AVENIDA, DE LA"/>
+		<tag k="capacity" v="5"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23115" lat="40.4620212" lon="-3.6156347">
+		<tag k="addr:street" v="FIXME CAPITAL DE ESPAÑA MADRID, AVENIDA, DE LA"/>
+		<tag k="capacity" v="1"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+</osm>

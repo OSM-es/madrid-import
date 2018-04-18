@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.3800283" minlon="-3.6914062" maxlat="40.413496" maxlon="-3.6474609"/>
+	<node id="-22836" lat="40.406124" lon="-3.6502881">
+		<tag k="addr:street" v="FIXME MORATALAZ, AVENIDA, DE"/>
+		<tag k="capacity" v="12"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22866" lat="40.3917581" lon="-3.6782618">
+		<tag k="addr:street" v="FIXME TITAN, CALLE, DE"/>
+		<tag k="capacity" v="2"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22869" lat="40.4007501" lon="-3.6603611">
+		<tag k="addr:street" v="FIXME SIERRA TOLEDANA, CALLE, DE LA"/>
+		<tag k="capacity" v="2"/>
+		<tag k="opening_hours" v="Mo-Fr 06:00-19:00; PH off"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22870" lat="40.3813505" lon="-3.6624808">
+		<tag k="addr:street" v="FIXME PABLO NERUDA, AVENIDA, DE"/>
+		<tag k="capacity" v="5"/>
+		<tag k="opening_hours" v="Mo-Fr 09:00-19:00; PH off"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22874" lat="40.3912036" lon="-3.6796903">
+		<tag k="addr:street" v="FIXME TITAN, CALLE, DE"/>
+		<tag k="capacity" v="3"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22875" lat="40.4133316" lon="-3.6676733">
+		<tag k="addr:street" v="FIXME PEZ VOLADOR, CALLE, DEL"/>
+		<tag k="capacity" v="2"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22881" lat="40.3924015" lon="-3.6545019">
+		<tag k="addr:street" v="FIXME MONLEON, CALLE, DE"/>
+		<tag k="capacity" v="3"/>
+		<tag k="opening_hours" v="Mo-Fr 09:00-21:00; PH off"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22911" lat="40.3816604" lon="-3.6522227">
+		<tag k="addr:street" v="FIXME PABLO NERUDA, AVENIDA, DE"/>
+		<tag k="capacity" v="3"/>
+		<tag k="opening_hours" v="Mo-Fr 08:00-20:00; PH off"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22933" lat="40.398439" lon="-3.6836596">
+		<tag k="addr:street" v="FIXME MENDEZ ALVARO, CALLE, DE"/>
+		<tag k="capacity" v="10"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22975" lat="40.4057648" lon="-3.6901988">
+		<tag k="addr:street" v="FIXME MENDEZ ALVARO, CALLE, DE"/>
+		<tag k="capacity" v="291"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22990" lat="40.3947138" lon="-3.6754431">
+		<tag k="addr:street" v="FIXME RETAMA, CALLE, DE LA"/>
+		<tag k="capacity" v="14"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23029" lat="40.4129098" lon="-3.6690292">
+		<tag k="addr:street" v="FIXME PEZ VOLADOR, CALLE, DEL"/>
+		<tag k="capacity" v="4"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23038" lat="40.4068628" lon="-3.6693099">
+		<tag k="addr:street" v="FIXME MEDITERRANEO, AVENIDA, DEL"/>
+		<tag k="capacity" v="7"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23048" lat="40.3930575" lon="-3.6603171">
+		<tag k="addr:street" v="FIXME SIERRA DE CADI, CALLE, DE LA"/>
+		<tag k="capacity" v="6"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23051" lat="40.4014969" lon="-3.6872858">
+		<tag k="addr:street" v="FIXME CANARIAS, CALLE, DE LAS"/>
+		<tag k="capacity" v="3"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23108" lat="40.4090867" lon="-3.6479088">
+		<tag k="addr:street" v="FIXME CAMINO DE LOS VINATEROS, CALLE, DEL"/>
+		<tag k="capacity" v="3"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23110" lat="40.4108176" lon="-3.655704">
+		<tag k="addr:street" v="FIXME ARROYO DE LA MEDIA LEGUA, CALLE, DEL"/>
+		<tag k="capacity" v="3"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23150" lat="40.394999" lon="-3.6784707">
+		<tag k="addr:street" v="FIXME MENDEZ ALVARO, CALLE, DE"/>
+		<tag k="capacity" v="68"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23204" lat="40.4061407" lon="-3.6759134">
+		<tag k="addr:street" v="FIXME CAVANILLES, CALLE, DE"/>
+		<tag k="capacity" v="2"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23236" lat="40.4070242" lon="-3.6589454">
+		<tag k="addr:street" v="FIXME CORREGIDOR ALONSO DE AGUILAR, PLAZA, DEL"/>
+		<tag k="capacity" v="3"/>
+		<tag k="opening_hours" v="Mo-Su 17:00-03:00; PH 17:00-03:00"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+</osm>

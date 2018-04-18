@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.413496" minlon="-3.6694335" maxlat="40.4302236" maxlon="-3.6474609"/>
+	<node id="-22854" lat="40.4267845" lon="-3.6579344">
+		<tag k="addr:street" v="FIXME RICARDO ORTIZ, CALLE, DE"/>
+		<tag k="capacity" v="3"/>
+		<tag k="opening_hours" v="Mo-Fr 06:00-21:00; PH 06:00-21:00"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22939" lat="40.417905" lon="-3.6690919">
+		<tag k="addr:street" v="FIXME DOCTOR ESQUERDO, CALLE, DEL"/>
+		<tag k="capacity" v="4"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23053" lat="40.4280939" lon="-3.6693126">
+		<tag k="addr:street" v="FIXME MANUEL BECERRA, PLAZA, DE"/>
+		<tag k="capacity" v="4"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23105" lat="40.4229938" lon="-3.6558884">
+		<tag k="addr:street" v="FIXME MARQUES DE CORBERA, AVENIDA, DEL"/>
+		<tag k="capacity" v="15"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23168" lat="40.4187122" lon="-3.6694033">
+		<tag k="addr:street" v="FIXME DOCTOR ESQUERDO, CALLE, DEL"/>
+		<tag k="capacity" v="8"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23206" lat="40.4233447" lon="-3.6686318">
+		<tag k="addr:street" v="FIXME DOCTOR ESQUERDO, CALLE, DEL"/>
+		<tag k="capacity" v="3"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+</osm>

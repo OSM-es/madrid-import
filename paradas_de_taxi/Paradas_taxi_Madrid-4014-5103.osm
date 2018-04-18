@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.413496" minlon="-3.6035156" maxlat="40.446947" maxlon="-3.5595703"/>
+	<node id="-22887" lat="40.4461356" lon="-3.5826951">
+		<tag k="addr:street" v="FIXME CAMPEZO, CALLE, DE"/>
+		<tag k="capacity" v="2"/>
+		<tag k="opening_hours" v="Mo-Fr 06:00-21:00; PH off"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+</osm>

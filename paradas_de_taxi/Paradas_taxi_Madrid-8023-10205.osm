@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.3967642" minlon="-3.7133789" maxlat="40.413496" maxlon="-3.6914062"/>
+	<node id="-22826" lat="40.4116911" lon="-3.6976764">
+		<tag k="addr:street" v="FIXME ATOCHA, CALLE, DE"/>
+		<tag k="capacity" v="1"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22827" lat="40.4068795" lon="-3.7126886">
+		<tag k="addr:street" v="FIXME SEGOVIA, RONDA, DE"/>
+		<tag k="capacity" v="2"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22828" lat="40.406942" lon="-3.7128359">
+		<tag k="addr:street" v="FIXME SEGOVIA, RONDA, DE"/>
+		<tag k="capacity" v="2"/>
+		<tag k="opening_hours" v="Mo-Fr 09:00-15:00; PH off"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22912" lat="40.4070277" lon="-3.6927085">
+		<tag k="addr:street" v="FIXME MENDEZ ALVARO, CALLE, DE"/>
+		<tag k="capacity" v="5"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22913" lat="40.4114026" lon="-3.7114711">
+		<tag k="addr:street" v="FIXME SAN FRANCISCO, CARRERA, DE"/>
+		<tag k="capacity" v="3"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22970" lat="40.4063939" lon="-3.7120645">
+		<tag k="addr:street" v="FIXME PUERTA DE TOLEDO, GLORIETA, DE LA"/>
+		<tag k="capacity" v="2"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22979" lat="40.4038801" lon="-3.6934871">
+		<tag k="addr:street" v="FIXME DELICIAS, PASEO, DE LAS"/>
+		<tag k="capacity" v="2"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22987" lat="40.4086687" lon="-3.7011965">
+		<tag k="addr:street" v="FIXME LAVAPIES, PLAZA, DEL"/>
+		<tag k="capacity" v="4"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22988" lat="40.4098325" lon="-3.6935675">
+		<tag k="addr:street" v="FIXME ATOCHA, CALLE, DE"/>
+		<tag k="capacity" v="2"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22989" lat="40.4045012" lon="-3.7019529">
+		<tag k="addr:street" v="FIXME EMBAJADORES, CALLE, DE"/>
+		<tag k="capacity" v="6"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23019" lat="40.4083477" lon="-3.6928541">
+		<tag k="addr:street" v="FIXME EMPERADOR CARLOS V, PLAZA, DEL"/>
+		<tag k="capacity" v="6"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23037" lat="40.4112487" lon="-3.7081459">
+		<tag k="addr:street" v="FIXME TOLEDO, CALLE, DE"/>
+		<tag k="capacity" v="7"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23200" lat="40.3981655" lon="-3.6978522">
+		<tag k="addr:street" v="FIXME JAIME EL CONQUISTADOR, CALLE, DE"/>
+		<tag k="capacity" v="3"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+</osm>

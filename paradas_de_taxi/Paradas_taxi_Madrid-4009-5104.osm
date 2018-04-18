@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.446947" minlon="-3.8232421" maxlat="40.4803814" maxlon="-3.7792968"/>
+	<node id="-23039" lat="40.4591648" lon="-3.7795496">
+		<tag k="addr:street" v="FIXME TEJADILLO, CALLE, DEL"/>
+		<tag k="capacity" v="7"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23079" lat="40.4589621" lon="-3.7852458">
+		<tag k="addr:street" v="FIXME GALAXIA, AVENIDA, DE LA"/>
+		<tag k="capacity" v="5"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23080" lat="40.4587329" lon="-3.7852392">
+		<tag k="addr:street" v="FIXME GALAXIA, AVENIDA, DE LA"/>
+		<tag k="capacity" v="3"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23086" lat="40.4646757" lon="-3.7851527">
+		<tag k="addr:street" v="FIXME ZARZUELA, CAMINO, DE LA"/>
+		<tag k="capacity" v="3"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23087" lat="40.4668765" lon="-3.801944">
+		<tag k="addr:street" v="FIXME MUSGO, CALLE, DEL"/>
+		<tag k="capacity" v="5"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+</osm>

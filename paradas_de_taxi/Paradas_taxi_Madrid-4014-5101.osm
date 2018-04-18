@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.3465441" minlon="-3.6035156" maxlat="40.3800283" maxlon="-3.5595703"/>
+	<node id="-22940" lat="40.3668294" lon="-3.5986364">
+		<tag k="addr:street" v="FIXME LAS SUERTES, AVENIDA, DE"/>
+		<tag k="capacity" v="2"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22942" lat="40.3656044" lon="-3.6027337">
+		<tag k="addr:street" v="FIXME ENSANCHE DE VALLECAS, AVENIDA, DEL"/>
+		<tag k="capacity" v="3"/>
+		<tag k="opening_hours" v="Mo-Fr 08:00-20:00; PH off"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23010" lat="40.3670065" lon="-3.5989942">
+		<tag k="addr:street" v="FIXME LAS SUERTES, AVENIDA, DE"/>
+		<tag k="capacity" v="3"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+</osm>

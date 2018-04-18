@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.3800283" minlon="-3.7792968" maxlat="40.413496" maxlon="-3.7353515"/>
+	<node id="-22845" lat="40.3918048" lon="-3.755299">
+		<tag k="addr:street" v="FIXME ILLESCAS, CALLE, DE"/>
+		<tag k="capacity" v="2"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22971" lat="40.4048464" lon="-3.7455757">
+		<tag k="addr:street" v="FIXME CEBREROS, CALLE, DE"/>
+		<tag k="capacity" v="4"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23025" lat="40.4110762" lon="-3.7381912">
+		<tag k="addr:street" v="FIXME PORTUGAL, AVENIDA, DE"/>
+		<tag k="capacity" v="2"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23062" lat="40.3854177" lon="-3.7612969">
+		<tag k="addr:street" v="FIXME POBLADOS, AVENIDA, DE LOS"/>
+		<tag k="capacity" v="5"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23083" lat="40.4134918" lon="-3.7505868">
+		<tag k="addr:street" v="FIXME ALBERGUE JUVENIL, CARRETERA, DEL"/>
+		<tag k="capacity" v="9"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23085" lat="40.4086255" lon="-3.7610602">
+		<tag k="addr:street" v="FIXME ZOO, CARRETERA, DEL"/>
+		<tag k="capacity" v="4"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23128" lat="40.3954216" lon="-3.7639565">
+		<tag k="addr:street" v="FIXME ILLESCAS, CALLE, DE"/>
+		<tag k="capacity" v="4"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23129" lat="40.387983" lon="-3.744181">
+		<tag k="addr:street" v="FIXME OCA, CALLE, DE LA"/>
+		<tag k="capacity" v="4"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23131" lat="40.4130599" lon="-3.7401494">
+		<tag k="addr:street" v="FIXME PRINCIPAL, AVENIDA"/>
+		<tag k="capacity" v="7"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23132" lat="40.405868" lon="-3.7535825">
+		<tag k="addr:street" v="FIXME VILLAMANIN, CALLE, DE"/>
+		<tag k="capacity" v="2"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23151" lat="40.4061467" lon="-3.7535882">
+		<tag k="addr:street" v="FIXME VILLAMANIN, CALLE, DE"/>
+		<tag k="capacity" v="4"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23231" lat="40.3948144" lon="-3.7682308">
+		<tag k="addr:street" v="FIXME PADRE PIQUER, AVENIDA, DEL"/>
+		<tag k="capacity" v="3"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23232" lat="40.3945587" lon="-3.7680922">
+		<tag k="addr:street" v="FIXME PADRE PIQUER, AVENIDA, DEL"/>
+		<tag k="capacity" v="7"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+</osm>

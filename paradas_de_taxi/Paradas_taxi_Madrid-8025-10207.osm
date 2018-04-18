@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.4302236" minlon="-3.6694335" maxlat="40.446947" maxlon="-3.6474609"/>
+	<node id="-22820" lat="40.4356244" lon="-3.6640015">
+		<tag k="addr:street" v="FIXME BIARRITZ, CALLE, DE"/>
+		<tag k="capacity" v="3"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22899" lat="40.443954" lon="-3.6660588">
+		<tag k="addr:street" v="FIXME SANTA HORTENSIA, CALLE, DE"/>
+		<tag k="capacity" v="7"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22959" lat="40.4415323" lon="-3.6655515">
+		<tag k="addr:street" v="FIXME AMERICA, AVENIDA, DE"/>
+		<tag k="capacity" v="5"/>
+		<tag k="opening_hours" v="Mo-Fr 08:00-19:00; PH off"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23063" lat="40.4408074" lon="-3.6692913">
+		<tag k="addr:street" v="FIXME A-2, AUTOVIA"/>
+		<tag k="capacity" v="4"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23097" lat="40.4441048" lon="-3.6551753">
+		<tag k="addr:street" v="FIXME CONDESA DE VENADITO, CALLE, DE LA"/>
+		<tag k="capacity" v="9"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23098" lat="40.4399852" lon="-3.6570509">
+		<tag k="addr:street" v="FIXME SALVADOR DE MADARIAGA, CALLE, DE"/>
+		<tag k="capacity" v="3"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23100" lat="40.4334878" lon="-3.6475126">
+		<tag k="addr:street" v="FIXME ALCALA, CALLE, DE"/>
+		<tag k="capacity" v="4"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23102" lat="40.4352004" lon="-3.658128">
+		<tag k="addr:street" v="FIXME VIRGEN DE LA ROCA, CALLE, DE LA"/>
+		<tag k="capacity" v="4"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23104" lat="40.4322291" lon="-3.6551041">
+		<tag k="addr:street" v="FIXME ALCALA, CALLE, DE"/>
+		<tag k="capacity" v="4"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23138" lat="40.4320515" lon="-3.6563666">
+		<tag k="addr:street" v="FIXME ALCALA, CALLE, DE"/>
+		<tag k="capacity" v="2"/>
+		<tag k="opening_hours" v="Mo-Fr 06:00-21:00; PH off"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23155" lat="40.4384711" lon="-3.6633989">
+		<tag k="addr:street" v="FIXME BRUSELAS, AVENIDA, DE"/>
+		<tag k="capacity" v="3"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23184" lat="40.4317271" lon="-3.6619686">
+		<tag k="addr:street" v="FIXME ALCALA, CALLE, DE"/>
+		<tag k="capacity" v="28"/>
+		<tag k="opening_hours" v="Mo-Su 20:00-22:00 &#34;En días de espectáculo&#34;"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23185" lat="40.4312133" lon="-3.6626299">
+		<tag k="addr:street" v="FIXME ALCALA, CALLE, DE"/>
+		<tag k="capacity" v="8"/>
+		<tag k="opening_hours" v="Mo-Su,PH &#34;En días de espectáculo&#34;"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+</osm>

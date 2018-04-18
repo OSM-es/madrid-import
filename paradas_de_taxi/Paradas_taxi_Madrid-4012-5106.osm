@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.5137991" minlon="-3.6914062" maxlat="40.5472002" maxlon="-3.6474609"/>
+	<node id="-22930" lat="40.5145729" lon="-3.6609024">
+		<tag k="addr:street" v="FIXME COMUNICACION, RONDA, DE LA"/>
+		<tag k="capacity" v="5"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22986" lat="40.5161702" lon="-3.6630812">
+		<tag k="addr:street" v="FIXME COMUNICACION, RONDA, DE LA"/>
+		<tag k="capacity" v="10"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23120" lat="40.514512" lon="-3.6715883">
+		<tag k="addr:street" v="FIXME ISABEL COLBRAND, CALLE, DE"/>
+		<tag k="capacity" v="4"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+</osm>

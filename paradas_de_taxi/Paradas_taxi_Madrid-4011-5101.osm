@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.3465441" minlon="-3.7353515" maxlat="40.3800283" maxlon="-3.6914062"/>
+	<node id="-23007" lat="40.3755649" lon="-3.6925348">
+		<tag k="addr:street" v="FIXME SAN MARIO, CALLE, DE"/>
+		<tag k="capacity" v="9"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23008" lat="40.3604662" lon="-3.6952418">
+		<tag k="addr:street" v="FIXME LA VERBENA DE LA PALOMA, AVENIDA, DE"/>
+		<tag k="capacity" v="12"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23047" lat="40.3517274" lon="-3.6915435">
+		<tag k="addr:street" v="FIXME JUAN JOSE MARTINEZ SECO, CALLE, DE"/>
+		<tag k="capacity" v="3"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23122" lat="40.3766295" lon="-3.6963966">
+		<tag k="addr:street" v="FIXME CORDOBA, AVENIDA, DE"/>
+		<tag k="capacity" v="9"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23123" lat="40.3748677" lon="-3.6923343">
+		<tag k="addr:street" v="FIXME CARABELOS, CALLE, DE"/>
+		<tag k="capacity" v="2"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23124" lat="40.3753082" lon="-3.6981171">
+		<tag k="addr:street" v="FIXME ANDALUCIA, AVENIDA, DE"/>
+		<tag k="capacity" v="6"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23173" lat="40.3762237" lon="-3.6928801">
+		<tag k="addr:street" v="FIXME SAN MAXIMO, CALLE, DE"/>
+		<tag k="capacity" v="8"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+</osm>

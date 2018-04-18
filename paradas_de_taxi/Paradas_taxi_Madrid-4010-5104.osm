@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.446947" minlon="-3.7792968" maxlat="40.4803814" maxlon="-3.7353515"/>
+	<node id="-23001" lat="40.474742" lon="-3.7426999">
+		<tag k="addr:street" v="FIXME ARROYOFRESNO, CALLE, DE"/>
+		<tag k="capacity" v="5"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+</osm>

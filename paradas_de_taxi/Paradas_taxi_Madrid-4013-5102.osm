@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.3800283" minlon="-3.6474609" maxlat="40.413496" maxlon="-3.6035156"/>
+	<node id="-22816" lat="40.409668" lon="-3.6417329">
+		<tag k="addr:street" v="FIXME MORATALAZ, AVENIDA, DE"/>
+		<tag k="capacity" v="3"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22865" lat="40.3821678" lon="-3.6040295">
+		<tag k="addr:street" v="FIXME POZA DE LA SAL, CALLE, DE"/>
+		<tag k="capacity" v="5"/>
+		<tag k="opening_hours" v="Mo-Fr 06:00-21:00; PH off"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22879" lat="40.3879203" lon="-3.6399413">
+		<tag k="addr:street" v="FIXME RAFAEL ALBERTI, AVENIDA, DE"/>
+		<tag k="capacity" v="3"/>
+		<tag k="opening_hours" v="Mo-Fr 09:00-21:00; PH off"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22880" lat="40.3887386" lon="-3.638937">
+		<tag k="addr:street" v="FIXME SAN CLAUDIO, CALLE, DE"/>
+		<tag k="capacity" v="2"/>
+		<tag k="opening_hours" v="Mo-Fr 09:00-21:00; PH off"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22882" lat="40.4050561" lon="-3.6091896">
+		<tag k="addr:street" v="FIXME ARTILLEROS, PASEO, DE LOS"/>
+		<tag k="capacity" v="3"/>
+		<tag k="opening_hours" v="Mo-Fr 06:00-19:00; PH off"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22889" lat="40.3999344" lon="-3.6218423">
+		<tag k="addr:street" v="FIXME INDALECIO PRIETO, BULEVAR, DE"/>
+		<tag k="capacity" v="3"/>
+		<tag k="opening_hours" v="Mo-Fr 06:00-19:00; PH off"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22941" lat="40.3804151" lon="-3.6037494">
+		<tag k="addr:street" v="FIXME FUENTESPINA, CALLE, DE"/>
+		<tag k="capacity" v="2"/>
+		<tag k="opening_hours" v="Mo-Fr 08:00-21:00; PH 08:00-21:00"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23023" lat="40.4042545" lon="-3.6083879">
+		<tag k="addr:street" v="FIXME SAN CIPRIANO, CALLE, DE"/>
+		<tag k="capacity" v="3"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23040" lat="40.3870765" lon="-3.6169456">
+		<tag k="addr:street" v="FIXME SABINO FERNANDEZ CAMPO, CALLE, DE"/>
+		<tag k="capacity" v="4"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23096" lat="40.3977441" lon="-3.6216656">
+		<tag k="addr:street" v="FIXME JOSE PRAT, BULEVAR, DE"/>
+		<tag k="capacity" v="5"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23107" lat="40.3989123" lon="-3.6396583">
+		<tag k="addr:street" v="FIXME ENCOMIENDA DE PALACIOS, CALLE, DE LA"/>
+		<tag k="capacity" v="3"/>
+		<tag k="opening_hours" v="Mo-Fr 06:00-19:00; PH off"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23109" lat="40.4001741" lon="-3.6337506">
+		<tag k="addr:street" v="FIXME HACIENDA DE PAVONES, CALLE, DE LA"/>
+		<tag k="capacity" v="4"/>
+		<tag k="opening_hours" v="Mo-Fr 06:00-19:00; PH off"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23113" lat="40.3818899" lon="-3.6100412">
+		<tag k="addr:street" v="FIXME SANTA EUGENIA, AVENIDA, DE"/>
+		<tag k="capacity" v="2"/>
+		<tag k="opening_hours" v="Mo-Su 08:00-20:00; PH 08:00-20:00"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23192" lat="40.4087234" lon="-3.636365">
+		<tag k="addr:street" v="FIXME DOCTOR GARCIA TAPIA, AVENIDA, DEL"/>
+		<tag k="capacity" v="4"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23235" lat="40.3904499" lon="-3.6461413">
+		<tag k="addr:street" v="FIXME SANTILLANA DEL MAR, CALLE, DE"/>
+		<tag k="capacity" v="4"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+</osm>

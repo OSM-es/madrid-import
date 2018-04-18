@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.413496" minlon="-3.7353515" maxlat="40.4302236" maxlon="-3.7133789"/>
+	<node id="-22859" lat="40.4299301" lon="-3.7156211">
+		<tag k="addr:street" v="FIXME PRINCESA, CALLE, DE LA"/>
+		<tag k="capacity" v="8"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22934" lat="40.4213906" lon="-3.72154">
+		<tag k="addr:street" v="FIXME FLORIDA, PASEO, DE LA"/>
+		<tag k="capacity" v="4"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22937" lat="40.4274398" lon="-3.7140979">
+		<tag k="addr:street" v="FIXME PRINCESA, CALLE, DE LA"/>
+		<tag k="capacity" v="8"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23135" lat="40.4151999" lon="-3.7307908">
+		<tag k="addr:street" v="FIXME PUERTA DEL ANGEL, PASEO, DE LA"/>
+		<tag k="capacity" v="2"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23139" lat="40.4300658" lon="-3.714272">
+		<tag k="addr:street" v="FIXME SERRANO JOVER, CALLE, DE"/>
+		<tag k="capacity" v="6"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23198" lat="40.4204434" lon="-3.7207676">
+		<tag k="addr:street" v="FIXME SAN VICENTE, GLORIETA, DE"/>
+		<tag k="capacity" v="6"/>
+		<tag k="opening_hours" v="Mo-Su 06:00-00:00; PH 06:00-00:00"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23229" lat="40.4279472" lon="-3.7171039">
+		<tag k="addr:street" v="FIXME QUINTANA, CALLE, DE"/>
+		<tag k="capacity" v="2"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+</osm>

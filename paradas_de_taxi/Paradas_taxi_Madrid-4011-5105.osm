@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.4803814" minlon="-3.7353515" maxlat="40.5137991" maxlon="-3.6914062"/>
+	<node id="-22822" lat="40.4826702" lon="-3.6939535">
+		<tag k="addr:street" v="FIXME JULIO PALACIOS, CALLE, DE"/>
+		<tag k="capacity" v="2"/>
+		<tag k="opening_hours" v="Mo-Fr 00:00-24:00; PH 00:00-24:00"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22843" lat="40.5046266" lon="-3.6981939">
+		<tag k="addr:street" v="FIXME MONASTERIO DE EL ESCORIAL, AVENIDA, DEL"/>
+		<tag k="capacity" v="5"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22862" lat="40.4937448" lon="-3.7170717">
+		<tag k="addr:street" v="FIXME VENTISQUERO DE LA CONDESA, AVENIDA, DEL"/>
+		<tag k="capacity" v="3"/>
+		<tag k="opening_hours" v="Mo-Fr 08:00-20:00; PH off"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22927" lat="40.4885355" lon="-3.6965692">
+		<tag k="addr:street" v="FIXME SAN MODESTO, CALLE, DE"/>
+		<tag k="capacity" v="9"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22928" lat="40.4880678" lon="-3.6965807">
+		<tag k="addr:street" v="FIXME SAN MODESTO, CALLE, DE"/>
+		<tag k="capacity" v="14"/>
+		<tag k="opening_hours" v="Mo-Fr 08:00-15:00; PH 08:00-15:00"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22932" lat="40.5055223" lon="-3.6953311">
+		<tag k="addr:street" v="FIXME MONASTERIO DE SILOS, AVENIDA, DEL"/>
+		<tag k="capacity" v="4"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22948" lat="40.480443" lon="-3.7240504">
+		<tag k="addr:street" v="FIXME RAMON GOMEZ DE LA SERNA, CALLE, DE"/>
+		<tag k="capacity" v="4"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22997" lat="40.4843481" lon="-3.7076404">
+		<tag k="addr:street" v="FIXME GINZO DE LIMIA, CALLE, DE"/>
+		<tag k="capacity" v="5"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-22998" lat="40.4841626" lon="-3.7073619">
+		<tag k="addr:street" v="FIXME GINZO DE LIMIA, CALLE, DE"/>
+		<tag k="capacity" v="5"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23000" lat="40.4946263" lon="-3.7008452">
+		<tag k="addr:street" v="FIXME COSTA BRAVA, CALLE, DE LA"/>
+		<tag k="capacity" v="9"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23002" lat="40.4863311" lon="-3.6943677">
+		<tag k="addr:street" v="FIXME SAN MODESTO, CALLE, DE"/>
+		<tag k="capacity" v="5"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23004" lat="40.4891419" lon="-3.7151244">
+		<tag k="addr:street" v="FIXME MASO, CALLE, DE LA"/>
+		<tag k="capacity" v="4"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23050" lat="40.4948452" lon="-3.7015162">
+		<tag k="addr:street" v="FIXME COSTA BRAVA, CALLE, DE LA"/>
+		<tag k="capacity" v="6"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23076" lat="40.4879138" lon="-3.694794">
+		<tag k="addr:street" v="FIXME SAN MODESTO, CALLE, DE"/>
+		<tag k="capacity" v="21"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23078" lat="40.486636" lon="-3.7039959">
+		<tag k="addr:street" v="FIXME ALFREDO MARQUERIE, CALLE, DE"/>
+		<tag k="capacity" v="1"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23081" lat="40.4870652" lon="-3.7166563">
+		<tag k="addr:street" v="FIXME VENTISQUERO DE LA CONDESA, AVENIDA, DEL"/>
+		<tag k="capacity" v="2"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23082" lat="40.4938766" lon="-3.7171847">
+		<tag k="addr:street" v="FIXME VENTISQUERO DE LA CONDESA, AVENIDA, DEL"/>
+		<tag k="capacity" v="4"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23084" lat="40.4893698" lon="-3.7140665">
+		<tag k="addr:street" v="FIXME MASO, CALLE, DE LA"/>
+		<tag k="capacity" v="4"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+	<node id="-23148" lat="40.4870057" lon="-3.6986273">
+		<tag k="addr:street" v="FIXME SANGENJO, CALLE, DE"/>
+		<tag k="capacity" v="3"/>
+		<tag k="amenity" v="taxi"/>
+		<tag k="operator" v="Ayuntamiento de Madrid"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-10-27"/>
+	</node>
+</osm>
