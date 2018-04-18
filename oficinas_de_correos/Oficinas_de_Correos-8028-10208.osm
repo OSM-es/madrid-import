@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.446947" minlon="-3.6035156" maxlat="40.4636663" maxlon="-3.5815429"/>
+	<node id="-411" lat="40.4573583" lon="-3.5890357">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Barajas"/>
+		<tag k="addr:housenumber" v="11"/>
+		<tag k="addr:postcode" v="28042"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Calle FIXME La Rioja"/>
+		<tag k="addr:suburb" v="Alameda De Osuna"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc62.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Fr 08:30-20:30; Sa 09:30-13:00; Aug Mo-Fr 08:30-20:30;Aug  Sa 09:30-13:00; Su off; Dec 24, Dec 25, Jan 1, Jan 6 off"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 902197197"/>
+		<tag k="ref" v="62"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+</osm>

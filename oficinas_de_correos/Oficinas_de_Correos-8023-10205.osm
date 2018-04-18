@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.3967642" minlon="-3.7133789" maxlat="40.413496" maxlon="-3.6914062"/>
+	<node id="-303" lat="40.4106404" lon="-3.713276">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Centro"/>
+		<tag k="addr:housenumber" v="13"/>
+		<tag k="addr:postcode" v="28005"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Carrera FIXME San Francisco"/>
+		<tag k="addr:suburb" v="Palacio"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc5.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Fr 08:30-20:30; Sa 09:30-13:00; Aug Mo-Fr 08:30-14:30; Aug Sa 09:30-13:00; PH off; Dec 24, Dec 25, Jan 1, Jan 6 off"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 913642069"/>
+		<tag k="ref" v="05"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+	<node id="-307" lat="40.4026769" lon="-3.6999225">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Arganzuela"/>
+		<tag k="addr:housenumber" v="6"/>
+		<tag k="addr:postcode" v="28012"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Calle FIXME Palos De La Frontera"/>
+		<tag k="addr:suburb" v="Palos De Moguer"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc7.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Fr 08:30-20:30; Sa 09:30-13:00; Aug Mo-Fr 08:30-14:30;Aug  Sa 09:30-13:00; PH off; Su off; Dec 24, Dec 25, Jan 1, Jan 6 off"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 915275000"/>
+		<tag k="ref" v="07"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+	<node id="-439" lat="40.4039932" lon="-3.6967779">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Arganzuela"/>
+		<tag k="addr:housenumber" v="42"/>
+		<tag k="addr:postcode" v="28045"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Paseo FIXME Santa Maria De La Cabeza"/>
+		<tag k="addr:suburb" v="Palos De Moguer"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc87.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Fr 08:30-20:30; Sa 09:30-13:00; Aug Mo-Fr 08:30-14:30;Aug  Sa 09:30-13:00; PH off; Su off; Dec 24, Dec 25, Jan 1, Jan 6 off"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 915305115"/>
+		<tag k="ref" v="87"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+</osm>

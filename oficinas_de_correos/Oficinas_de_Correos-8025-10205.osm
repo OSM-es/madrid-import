@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.3967642" minlon="-3.6694335" maxlat="40.413496" maxlon="-3.6474609"/>
+	<node id="-367" lat="40.4101168" lon="-3.655626">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Moratalaz"/>
+		<tag k="addr:housenumber" v="56"/>
+		<tag k="addr:postcode" v="28030"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Calle FIXME Arroyo De La Media Legua"/>
+		<tag k="addr:suburb" v="Media Legua"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc39.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Fr 08:30-20:30; Sa 09:30-13:00; Aug Mo-Fr 08:30-14:30; Aug Sa 09:30-13:00; PH off; Dec 24, Dec 25, Jan 1, Jan 6 off"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 913285930"/>
+		<tag k="ref" v="39"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+	<node id="-393" lat="40.3977662" lon="-3.6665122">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Puente de Vallecas"/>
+		<tag k="addr:housenumber" v="29"/>
+		<tag k="addr:postcode" v="28038"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Calle FIXME Monte Oliveti"/>
+		<tag k="addr:suburb" v="Numancia"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc52.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Fr 08:30-20:30; Sa 09:30-13:00; Aug Mo-Fr 08:30-14:30; Aug Sa 09:30-13:00; PH off; Dec 24, Dec 25, Jan 1, Jan 6 off"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 915012075"/>
+		<tag k="ref" v="52"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+</osm>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.446947" minlon="-3.6254882" maxlat="40.4636663" maxlon="-3.6035156"/>
+	<node id="-321" lat="40.4624619" lon="-3.6141328">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Barajas"/>
+		<tag k="addr:housenumber" v="7"/>
+		<tag k="addr:postcode" v="28042"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Calle FIXME Via De Dublin"/>
+		<tag k="addr:suburb" v="Corralejos"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc12.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Fr 08:30-18:00; Sa 09:30-13:00; Aug Mo-Fr 08:30-14:30; Aug Sa 09:30-13:00; PH off; Dec 24, Dec 25, Jan 1, Jan 6 off"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 915963615"/>
+		<tag k="ref" v="12"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+	<node id="-325" lat="40.4565841" lon="-3.6182543">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Hortaleza"/>
+		<tag k="addr:housenumber" v="50"/>
+		<tag k="addr:postcode" v="28042"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Avenida FIXME Andes"/>
+		<tag k="addr:suburb" v="Palomas"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc14.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Sa 10:00-22:00; PH off; Su[1] 10:00-22:00"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 917419603"/>
+		<tag k="ref" v="14"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+	<node id="-443" lat="40.4634533" lon="-3.6191194">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Barajas"/>
+		<tag k="addr:postcode" v="28042"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Avenida FIXME Partenon"/>
+		<tag k="addr:suburb" v="Corralejos"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc90.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="10:00-14:30, 16:00-18:00 “Solo los días en los que haya feria en IFEMA.”"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 917210464"/>
+		<tag k="ref" v="90"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+</osm>

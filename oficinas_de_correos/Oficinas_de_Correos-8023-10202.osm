@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.3465441" minlon="-3.7133789" maxlat="40.3632883" maxlon="-3.6914062"/>
+	<node id="-313" lat="40.3631606" lon="-3.6928475">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Villaverde"/>
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:postcode" v="28041"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Calle FIXME Tertulia"/>
+		<tag k="addr:suburb" v="Los Rosales"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc101.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Fr 09:30-21:00; Sa 09:30-18:00; Su off; PH off"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 902197197"/>
+		<tag k="ref" v="101"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+	<node id="-371" lat="40.3549124" lon="-3.6921507">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Villaverde"/>
+		<tag k="addr:housenumber" v="42"/>
+		<tag k="addr:postcode" v="28041"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Calle FIXME Sahara"/>
+		<tag k="addr:suburb" v="Los Rosales"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc41.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="24/7 off &#34;Cerrada temporalmente&#34;"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 917979314"/>
+		<tag k="ref" v="41"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+</osm>

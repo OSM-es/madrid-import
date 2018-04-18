@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.4636663" minlon="-3.6694335" maxlat="40.4803814" maxlon="-3.6474609"/>
+	<node id="-385" lat="40.4646567" lon="-3.6493619">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Hortaleza"/>
+		<tag k="addr:housenumber" v="24"/>
+		<tag k="addr:postcode" v="28043"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Calle FIXME Pegaso"/>
+		<tag k="addr:suburb" v="Canillas"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc48.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="24/7 off &#34;Cerrada temporalmente&#34;"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 913000543"/>
+		<tag k="ref" v="48"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+	<node id="-451" lat="40.4646298" lon="-3.6493499">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Hortaleza"/>
+		<tag k="addr:housenumber" v="24"/>
+		<tag k="addr:postcode" v="28043"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Calle FIXME Pegaso"/>
+		<tag k="addr:suburb" v="Canillas"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc99.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Fr 08:30-20:30; Sa 09:30-13:00; PH off; Dec 24, Dec 25, Jan 1, Jan 6 off"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 917643530"/>
+		<tag k="ref" v="99"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+</osm>

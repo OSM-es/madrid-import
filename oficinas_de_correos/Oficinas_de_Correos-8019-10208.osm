@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.446947" minlon="-3.8012695" maxlat="40.4636663" maxlon="-3.7792968"/>
+	<node id="-355" lat="40.4585554" lon="-3.7847838">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Moncloa-Aravaca"/>
+		<tag k="addr:housenumber" v="10"/>
+		<tag k="addr:postcode" v="28023"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Calle FIXME Caroli"/>
+		<tag k="addr:suburb" v="Aravaca"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc33.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Fr 08:30-20:30; Sa 09:30-13:00; Aug Mo-Fr 08:30-14:30; Aug Sa 09:30-13:00; PH off; Dec 24, Dec 25, Jan 1, Jan 6 off"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 913571817"/>
+		<tag k="ref" v="33"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+</osm>

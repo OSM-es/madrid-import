@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.3800283" minlon="-3.7353515" maxlat="40.3967642" maxlon="-3.7133789"/>
+	<node id="-327" lat="40.3963281" lon="-3.7142325">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Carabanchel"/>
+		<tag k="addr:housenumber" v="4"/>
+		<tag k="addr:postcode" v="28019"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Calle FIXME Jacinto Verdaguer"/>
+		<tag k="addr:suburb" v="Comillas"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc15.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Fr 08:30-20:30; Sa 09:30-13:00; Aug Mo-Fr 08:30-14:30; Aug Sa 09:30-13:00; PH off; Dec 24, Dec 25, Jan 1, Jan 6 off"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 915696394"/>
+		<tag k="ref" v="15"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+	<node id="-357" lat="40.3844283" lon="-3.715497">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Usera"/>
+		<tag k="addr:housenumber" v="5"/>
+		<tag k="addr:postcode" v="28026"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Calle FIXME San Magin"/>
+		<tag k="addr:suburb" v="Zofio"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc34.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Fr 08:30-20:30; Sa 09:30-13:00; Aug Mo-Fr 08:30-14:30; Aug Sa 09:30-13:00; PH off; Dec 24, Dec 25, Jan 1, Jan 6 off"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 914603554"/>
+		<tag k="ref" v="34"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+</osm>

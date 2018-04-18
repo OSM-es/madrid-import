@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.413496" minlon="-3.7133789" maxlat="40.4302236" maxlon="-3.6914062"/>
+	<node id="-293" lat="40.4185409" lon="-3.6925902">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Retiro"/>
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:postcode" v="28014"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Paseo FIXME Prado"/>
+		<tag k="addr:suburb" v="Los Jeronimos"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="op.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Fr 08:30-21:30; Sa 08:30-14:00; Su off; Dec 24, Dec 25, Jan 1, Jan 6 off"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 915232552"/>
+		<tag k="ref" v="OP"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+	<node id="-331" lat="40.423335" lon="-3.7057949">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Centro"/>
+		<tag k="addr:housenumber" v="17"/>
+		<tag k="addr:postcode" v="28004"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Calle FIXME Pizarro"/>
+		<tag k="addr:suburb" v="Universidad"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc18.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Fr 08:30-14:30; Sa 09:30-13:00; PH off; Su off; Dec 24, Dec 25, Jan 1, Jan 6 off"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 915322761"/>
+		<tag k="ref" v="18"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+	<node id="-419" lat="40.4174245" lon="-3.7044012">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Centro"/>
+		<tag k="addr:housenumber" v="3"/>
+		<tag k="addr:postcode" v="28013"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Calle FIXME Preciados"/>
+		<tag k="addr:suburb" v="Sol"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc67.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Su, PH 10:00-22:00; Jan 1, Jan 6, Dec 25 off"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 915317997"/>
+		<tag k="ref" v="67"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+	<node id="-427" lat="40.4245303" lon="-3.7121377">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Moncloa-Aravaca"/>
+		<tag k="addr:housenumber" v="42"/>
+		<tag k="addr:postcode" v="28008"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Calle FIXME Princesa"/>
+		<tag k="addr:suburb" v="Arguelles"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc73.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Sa 10:00-22:00; PH off; Su[1] 10:00-22:00"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 915596128"/>
+		<tag k="ref" v="73"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+	<node id="-437" lat="40.4199097" lon="-3.706101">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Centro"/>
+		<tag k="addr:housenumber" v="2"/>
+		<tag k="addr:postcode" v="28013"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Plaza FIXME Callao"/>
+		<tag k="addr:suburb" v="Sol"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc86.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Su 10:00-22:00; Jan 1, Jan 6, Dec 25 off"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 915212510"/>
+		<tag k="ref" v="86"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+	<node id="-441" lat="40.4265521" lon="-3.6982249">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Centro"/>
+		<tag k="addr:housenumber" v="7"/>
+		<tag k="addr:postcode" v="28004"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Calle FIXME Mejia Lequerica"/>
+		<tag k="addr:suburb" v="Justicia"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc88.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Fr 08:30-20:30; Sa 09:30-13:00; Aug Mo-Fr 08:30-14:30;Aug  Sa 09:30-13:00; Su off; Dec 24, Dec 25, Jan 1, Jan 6 off"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 914454377"/>
+		<tag k="ref" v="88"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+</osm>

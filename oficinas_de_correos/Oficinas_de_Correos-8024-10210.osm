@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.4803814" minlon="-3.6914062" maxlat="40.4970923" maxlon="-3.6694335"/>
+	<node id="-391" lat="40.4871258" lon="-3.6896724">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Fuencarral-El Pardo"/>
+		<tag k="addr:housenumber" v="31"/>
+		<tag k="addr:postcode" v="28034"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Calle FIXME Virgen De Aranzazu"/>
+		<tag k="addr:suburb" v="Valverde"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc51.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Fr 08:30-14:30; Sa 09:30-13:00; PH off; Su off; Dec 24, Dec 25, Jan 1, Jan 6 off"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 917290480"/>
+		<tag k="ref" v="51"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+</osm>

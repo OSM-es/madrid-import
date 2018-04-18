@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.3800283" minlon="-3.6694335" maxlat="40.3967642" maxlon="-3.6474609"/>
+	<node id="-399" lat="40.3896736" lon="-3.665372">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Puente de Vallecas"/>
+		<tag k="addr:housenumber" v="75"/>
+		<tag k="addr:postcode" v="28053"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Calle FIXME Sierra Carbonera"/>
+		<tag k="addr:suburb" v="San Diego"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc55.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Fr 08:30-20:30; Sa 09:30-13:00; Aug Mo-Fr 08:30-14:30; Aug Sa 09:30-13:00; PH off; Dec 24, Dec 25, Jan 1, Jan 6 off"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 914779248"/>
+		<tag k="ref" v="55"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+	<node id="-445" lat="40.3812372" lon="-3.6613306">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Puente de Vallecas"/>
+		<tag k="addr:housenumber" v="91"/>
+		<tag k="addr:postcode" v="28018"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Avenida FIXME Pablo Neruda"/>
+		<tag k="addr:suburb" v="Palomeras Bajas"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc92.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Fr 08:30-21:30; Sa 09:30-18:00; Su off"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 917868186"/>
+		<tag k="ref" v="92"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+</osm>

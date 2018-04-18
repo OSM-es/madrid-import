@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.4302236" minlon="-3.6914062" maxlat="40.446947" maxlon="-3.6694335"/>
+	<node id="-297" lat="40.4441616" lon="-3.6760145">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Chamartin"/>
+		<tag k="addr:housenumber" v="12"/>
+		<tag k="addr:postcode" v="28002"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Calle FIXME Luis Vives"/>
+		<tag k="addr:suburb" v="Ciudad Jardin"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc2.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Fr 08:30-20:30; Sa 09:30-13:00; Aug Mo-Fr 08:30-14:30; Aug Sa 09:30-13:00; PH off; Dec 24, Dec 25, Jan 1, Jan 6 off"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 915633992"/>
+		<tag k="ref" v="02"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+	<node id="-305" lat="40.4335026" lon="-3.6854222">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Salamanca"/>
+		<tag k="addr:housenumber" v="100"/>
+		<tag k="addr:postcode" v="28006"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Calle FIXME Claudio Coello"/>
+		<tag k="addr:suburb" v="Castellana"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc6.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Fr 08:30-20:30; Sa 09:30-13:00; Aug Mo-Fr 08:30-20:30;Aug  Sa 09:30-13:00; Su off; Dec 24, Dec 25, Jan 1, Jan 6 off"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 914359540"/>
+		<tag k="ref" v="06"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+	<node id="-323" lat="40.4380282" lon="-3.6772618">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Chamartin"/>
+		<tag k="addr:housenumber" v="3"/>
+		<tag k="addr:postcode" v="28002"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Avenida FIXME America"/>
+		<tag k="addr:suburb" v="Prosperidad"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc13.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Fr 08:30-20:30; Sa 09:30-13:00; Aug Mo-Fr 08:30-14:30; Aug Sa 09:30-13:00; PH off; Dec 24, Dec 25, Jan 1, Jan 6 off"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 915633946"/>
+		<tag k="ref" v="13"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+</osm>

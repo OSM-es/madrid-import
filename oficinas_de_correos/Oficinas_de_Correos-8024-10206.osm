@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.413496" minlon="-3.6914062" maxlat="40.4302236" maxlon="-3.6694335"/>
+	<node id="-295" lat="40.4222886" lon="-3.685049">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Salamanca"/>
+		<tag k="addr:housenumber" v="30"/>
+		<tag k="addr:postcode" v="28001"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Calle FIXME Villanueva"/>
+		<tag k="addr:suburb" v="Recoletos"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc1.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Fr 08:30-20:30; Sa 09:30-13:00; Aug Mo-Fr 08:30-14:30; Aug Sa 09:30-13:00; PH off; Dec 24, Dec 25, Jan 1, Jan 6 off"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 914319159"/>
+		<tag k="ref" v="01"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+	<node id="-311" lat="40.4292012" lon="-3.67076">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Salamanca"/>
+		<tag k="addr:housenumber" v="21"/>
+		<tag k="addr:postcode" v="28006"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Calle FIXME Martires Concepcionistas"/>
+		<tag k="addr:suburb" v="Lista"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc9.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Fr 08:30-20:30; Sa 09:30-13:00; Aug Mo-Fr 08:30-14:30;Aug  Sa 09:30-13:00; PH off; Su off; Dec 24, Dec 25, Jan 1, Jan 6 off"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 914028150"/>
+		<tag k="ref" v="09"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+	<node id="-337" lat="40.4177097" lon="-3.6716242">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Retiro"/>
+		<tag k="addr:housenumber" v="2"/>
+		<tag k="addr:postcode" v="28009"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Calle FIXME Antonio Arias"/>
+		<tag k="addr:suburb" v="Ibiza"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc21.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Fr 08:30-20:30; Sa 09:30-13:00; Aug Mo-Fr 08:30-14:30; Aug Sa 09:30-13:00; PH off; Dec 24, Dec 25, Jan 1, Jan 6 off"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 915736927"/>
+		<tag k="ref" v="21"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+	<node id="-395" lat="40.4266044" lon="-3.6757797">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Salamanca"/>
+		<tag k="addr:housenumber" v="19"/>
+		<tag k="addr:postcode" v="28006"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Calle FIXME Conde De Peñalver"/>
+		<tag k="addr:suburb" v="Goya"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc53.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Fr 08:30-20:30; Sa 09:30-13:00; PH off; Dec 24, Dec 25, Jan 1, Jan 6 off"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 915769172"/>
+		<tag k="ref" v="53"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+</osm>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.4636663" minlon="-3.7133789" maxlat="40.4803814" maxlon="-3.6914062"/>
+	<node id="-373" lat="40.479147" lon="-3.7085263">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Fuencarral-El Pardo"/>
+		<tag k="addr:housenumber" v="36"/>
+		<tag k="addr:postcode" v="28029"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Avenida FIXME Monforte De Lemos"/>
+		<tag k="addr:suburb" v="El Pilar"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc42.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="De lunes a vienres de 10 a 22 horas. Sábados de 9 a 14 horas. Domingos y festivos abierto excepcionalmente (consultar con la propia oficina)."/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 917319726"/>
+		<tag k="ref" v="42"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+	<node id="-377" lat="40.4709386" lon="-3.6938832">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Tetuan"/>
+		<tag k="addr:housenumber" v="43"/>
+		<tag k="addr:postcode" v="28029"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Calle FIXME Padre Rubio"/>
+		<tag k="addr:suburb" v="Almenara"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc44.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Fr 08:30-20:30; Sa 09:30-13:00; Aug Mo-Fr 08:30-14:30; Aug Sa 09:30-13:00; PH off; Dec 24, Dec 25, Jan 1, Jan 6 off"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 913231837"/>
+		<tag k="ref" v="44"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+</osm>

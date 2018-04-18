@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.3800283" minlon="-3.6914062" maxlat="40.3967642" maxlon="-3.6694335"/>
+	<node id="-421" lat="40.3944496" lon="-3.6760355">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Arganzuela"/>
+		<tag k="addr:housenumber" v="8"/>
+		<tag k="addr:postcode" v="28045"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Calle FIXME Retama"/>
+		<tag k="addr:suburb" v="Atocha"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc70.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Sa 10:00-22:00; PH off; Su[1] 10:00-22:00"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 915275328"/>
+		<tag k="ref" v="70"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+</osm>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.4970923" minlon="-3.6694335" maxlat="40.5137991" maxlon="-3.6474609"/>
+	<node id="-429" lat="40.4978718" lon="-3.660669">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Hortaleza"/>
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:postcode" v="28050"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Calle FIXME Margarita De Parma"/>
+		<tag k="addr:suburb" v="Valdefuentes"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc74.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Sa 10:00-22:00; PH off; Su[1] 10:00-22:00"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 917502490"/>
+		<tag k="ref" v="74"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+</osm>

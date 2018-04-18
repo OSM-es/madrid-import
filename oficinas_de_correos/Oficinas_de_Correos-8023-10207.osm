@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.4302236" minlon="-3.7133789" maxlat="40.446947" maxlon="-3.6914062"/>
+	<node id="-299" lat="40.4455098" lon="-3.7037156">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Chamberi"/>
+		<tag k="addr:housenumber" v="39"/>
+		<tag k="addr:postcode" v="28003"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Calle FIXME Maudes"/>
+		<tag k="addr:suburb" v="Rios Rosas"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc3.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Fr 08:30-20:30; Sa 09:30-13:00; Aug Mo-Fr 08:30-14:30;Aug  Sa 09:30-13:00; PH off; Su off; Dec 24, Dec 25, Jan 1, Jan 6 off"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 915330250"/>
+		<tag k="ref" v="03"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+	<node id="-317" lat="40.431056" lon="-3.7027868">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Chamberi"/>
+		<tag k="addr:housenumber" v="2"/>
+		<tag k="addr:postcode" v="28010"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Calle FIXME Alburquerque"/>
+		<tag k="addr:suburb" v="Trafalgar"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc10.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Fr 08:30-20:30; Sa 09:30-13:00; Aug Mo-Fr 08:30-14:30; Aug Sa 09:30-13:00; Dec 24, Dec 25, Jan 1, Jan 6 off"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 914457767"/>
+		<tag k="ref" v="10"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+	<node id="-381" lat="40.4369145" lon="-3.7111954">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Chamberi"/>
+		<tag k="addr:housenumber" v="86"/>
+		<tag k="addr:postcode" v="28015"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Calle FIXME Guzman El Bueno"/>
+		<tag k="addr:suburb" v="Arapiles"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc46.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Fr 08:30-20:30; Sa 09:30-13:00; Aug Mo-Fr 08:30-14:30; Aug Sa 09:30-13:00; PH off; Dec 24, Dec 25, Jan 1, Jan 6 off"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 915536813"/>
+		<tag k="ref" v="46"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+	<node id="-423" lat="40.4465705" lon="-3.6921821">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Tetuan"/>
+		<tag k="addr:housenumber" v="79"/>
+		<tag k="addr:postcode" v="28003"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Calle FIXME Raimundo Fernandez Villaverde"/>
+		<tag k="addr:suburb" v="Cuatro Caminos"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc71.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Sa 10:00-22:00; PH off; Su[1] 10:00-22:00"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 915557771"/>
+		<tag k="ref" v="71"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+</osm>

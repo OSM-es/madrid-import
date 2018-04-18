@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.3967642" minlon="-3.7573242" maxlat="40.413496" maxlon="-3.7353515"/>
+	<node id="-401" lat="40.4046431" lon="-3.7512541">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Latina"/>
+		<tag k="addr:housenumber" v="8"/>
+		<tag k="addr:postcode" v="28011"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Calle FIXME Carlina"/>
+		<tag k="addr:suburb" v="Lucero"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc56.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Fr 08:30-20:30; Sa 09:30-13:00; Aug Mo-Fr 08:30-14:30; Aug Sa 09:30-13:00; PH off; Dec 24, Dec 25, Jan 1, Jan 6 off"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 914631873"/>
+		<tag k="ref" v="56"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+</osm>

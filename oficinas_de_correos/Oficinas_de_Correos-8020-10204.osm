@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8">
+	<bounds minlat="40.3800283" minlon="-3.7792968" maxlat="40.3967642" maxlon="-3.7573242"/>
+	<node id="-375" lat="40.3820044" lon="-3.7648215">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Latina"/>
+		<tag k="addr:housenumber" v="6"/>
+		<tag k="addr:postcode" v="28044"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Calle FIXME Sanguiño"/>
+		<tag k="addr:suburb" v="Las Aguilas"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc43.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Fr 08:30-20:30; Sa 09:30-13:00; Aug Mo-Fr 08:30-14:30; Aug Sa 09:30-13:00; PH off; Dec 24, Dec 25, Jan 1, Jan 6 off"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 917065787"/>
+		<tag k="ref" v="43"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+	<node id="-389" lat="40.3940226" lon="-3.7675261">
+		<tag k="addr:city" v="Madrid"/>
+		<tag k="addr:district" v="Latina"/>
+		<tag k="addr:housenumber" v="13"/>
+		<tag k="addr:postcode" v="28024"/>
+		<tag k="addr:province" v="Madrid"/>
+		<tag k="addr:street" v="Avenida FIXME Padre Piquer"/>
+		<tag k="addr:suburb" v="Aluche"/>
+		<tag k="amenity" v="post_office"/>
+		<tag k="email" v="suc50.madrid@correos.com"/>
+		<tag k="name" v="Correos"/>
+		<tag k="opening_hours" v="Mo-Fr 08:30-20:30; Sa 09:30-13:00; Aug Mo-Fr 08:30-14:30; Aug Sa 09:30-13:00; PH off; Dec 24, Dec 25, Jan 1, Jan 6 off"/>
+		<tag k="operator" v="Correos"/>
+		<tag k="phone" v="+34 917115081"/>
+		<tag k="ref" v="50"/>
+		<tag k="source" v="Ayuntamiento de Madrid"/>
+		<tag k="source:date" v="2016-09-26"/>
+		<tag k="url" v="https://www.correos.es"/>
+	</node>
+</osm>
